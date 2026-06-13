@@ -8,6 +8,7 @@ import Capstone from "@/pages/capstone"
 import TimeCapsule from "@/pages/time-capsule"
 import FunFact from "@/pages/fun-fact"
 import FinalMessage from "@/pages/final-message"
+import Member from "@/pages/member"
 
 export const router = createBrowserRouter([
   {
@@ -16,6 +17,10 @@ export const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "/member",
+        element: <Member />,
       },
       {
         path: "/journey",

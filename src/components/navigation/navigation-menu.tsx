@@ -4,8 +4,8 @@ export const NAV_ITEMS = [
     href: "/",
   },
   {
-    title: "MEMBER",
-    href: "/member",
+    title: "CONTRIBUTORS",
+    href: "/contributors",
   },
   {
     title: "JOURNEY",

@@ -73,9 +73,9 @@ export const funFact: FunFact = [
   {
     id: "CFCC466D6X2042",
     name: "Ismawati",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "Sangat banyak.... mungkin 10 lebih kali ya, soalnya ketika ai satu udah limit, pindah ke ai yang lain hehehe",
+    web: "Chatgpt, Github, Capilot, Gemini, YouTube, Discord, ",
+    friend: "Makanan ringan dan susu coklat",
   },
   {
     id: "CFCC308D6Y1164",

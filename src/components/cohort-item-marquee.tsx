@@ -3,6 +3,7 @@ import { Card, CardContent } from "@/components/ui/card"
 type Cohort = {
   id: string
   name: string
+  image: string
 }
 
 interface CohortItem {
@@ -19,10 +20,14 @@ export default function CohortItemMarquee({ cohort }: CohortItem) {
             width="36"
             height="36"
             alt="image"
-            src={`https://ui-avatars.com/api/?name=${cohort.name}&background=random`}
+            src={
+              cohort.image !== ""
+                ? cohort.image
+                : `https://ui-avatars.com/api/?name=${cohort.name}&background=random`
+            }
           />
           <div className="flex flex-col">
-            <p className="text-xs italic text-muted-foreground font-light">
+            <p className="text-xs font-light text-muted-foreground italic">
               {cohort.id}
             </p>
             <p className="text-xs font-medium text-foreground lg:text-sm">

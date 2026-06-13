@@ -19,7 +19,7 @@ export const facil: Member = [
     github: "https://github.com/afifrohul",
     linkedin: "https://linkedin.com/",
     portfolio: "https://afifrohul.vercel.app/",
-    image: "",
+    image: "/images/afif.jpeg",
     motto: "Berusaha, berdoa, dan beristirahat.",
   },
 ]
@@ -34,7 +34,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC726D6X0277",
@@ -45,7 +46,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC694D6Y1628",
@@ -56,7 +58,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC200D6X2177",
@@ -67,7 +70,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC358D6X1820",
@@ -78,7 +82,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC244D6Y2846",
@@ -89,7 +94,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC009D6Y1098",
@@ -100,7 +106,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC220D6X0429",
@@ -111,7 +118,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC528D6X0049",
@@ -121,7 +129,7 @@ export const cohorts: Member = [
     github: "https://github.com/inkatriamanda28",
     linkedin: "https://www.linkedin.com/in/inka-triamanda-976a723a5/",
     portfolio: "",
-    image: "",
+    image: "/images/inka.png",
     motto: "Don't decrease the goal, Increase the effort.",
   },
   {
@@ -129,11 +137,12 @@ export const cohorts: Member = [
     name: "Ismawati",
     univ: "Universitas Sains Alqur an",
     major: "Teknik Informatika",
-    github: "",
-    linkedin: "",
-    portfolio: "",
-    image: "",
-    motto: "",
+    github: "https://github.com/Isma0505",
+    linkedin: "https://www.linkedin.com/in/isma-wati-b6926b3a8/",
+    portfolio: "https://my-portofolio-puce-eight.vercel.app/",
+    image: "/images/ismawati.png",
+    motto:
+      "Jika malam mampu bertahan hingga fajar, aku pun mampu bertahan hingga berhasil. Jangan menyerah di awal, karena keberhasilan selalu datang di akhir:)",
   },
   {
     id: "CFCC308D6Y1164",
@@ -144,7 +153,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC183D6Y2331",
@@ -155,7 +165,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC525D6Y0130",
@@ -165,7 +176,7 @@ export const cohorts: Member = [
     github: "https://github.com/naufalpalal",
     linkedin: "http://www.linkedin.com/in/moh-naufal-57b21b3a6",
     portfolio: "",
-    image: "",
+    image: "/images/naufal.png",
     motto:
       "Keberhasilan bukan tentang situasi yang sempurna, melainkan tentang bagaimana kita mengelola setiap peluang dengan optimal.",
   },
@@ -178,7 +189,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC221D6Y1295",
@@ -189,7 +201,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC308D6Y0365",
@@ -200,7 +213,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC256D6Y2778",
@@ -211,7 +225,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC009D6Y1879",
@@ -222,7 +237,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC284D6X1467",
@@ -233,7 +249,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC573D6Y1062",
@@ -244,7 +261,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC284D6X1956",
@@ -255,7 +273,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC846D6X0782",
@@ -266,7 +285,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC476D6Y0656",
@@ -277,7 +297,8 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
   {
     id: "CFCC525D6X0203",
@@ -287,7 +308,7 @@ export const cohorts: Member = [
     github: "https://github.com/wandasvt",
     linkedin: "https://www.linkedin.com/in/wanda-safitri-01295b3a2/",
     portfolio: "",
-    image: "",
+    image: "/images/wanda.png",
     motto: "I have not come this far to remain the same.",
   },
   {
@@ -299,6 +320,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto: "",
+    motto:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
   },
 ]

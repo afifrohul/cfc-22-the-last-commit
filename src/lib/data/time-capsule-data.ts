@@ -74,9 +74,9 @@ export const timeCapsule: TimeCapsule = [
   {
     id: "CFCC466D6X2042",
     name: "Ismawati",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "Semoga dalam 5 tahun kedepan bisa menjadi programmer/desainer profesional dan bisa bekerja di salah satu perusahaan besar dengan begitu bisa membuat orang tua bahagia dan bisa membeli rumah dan mobil yang diimpikan.",
+    hope: "Di posisi programmer atau sebagai fashion desainer, syukur-syukur bisa jadi CEO kaya yang ada di drama china wkwkwk",
+    promise: "Berjanji akan terus belajar walau malas sekalipun, setidaknya meluangkan waktu minimal 30 menit untuk belajar dan mencari ilmu baru",
   },
   {
     id: "CFCC308D6Y1164",

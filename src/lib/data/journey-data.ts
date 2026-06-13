@@ -87,10 +87,14 @@ export const journeys: Journey = [
   {
     id: "CFCC466D6X2042",
     name: "Ismawati",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Awal pertama ikut dicoding itu perasaannya sedikit takut dan deg-degan karena masih pemula, takut tidak bisa beradaptasi dengan teman-teman yang mungkin sudah cukup berpengalaman apalagi aku sendiri orangnya introvert, kalo mau tanya apapun pasti malu. Selain itu juga takut gak bisa sesuaikan jadwal yang dsediakan dicoding dan mungkin akan banyak kelas yang akan terlewati. Dan Alhamdulillah tidak semenakutkan yang aku bayangkan.",
+    challenge:
+      "Tantangan terbesarnya adalah waktu itu karena di daerahku sedang mengalami cuaca buruk, jadinya listrik padam. Itu mempengaruhi jaringan wifi dan juga jaringan data seluler karena bergantung pada listrik. Sehingga waktu itu sempet berdiri di depan pintu untuk nyari sinyal sampe layar laptop basah. Selain itu tantangannya adalah saat pengerjaan capstone. Itu benar-benar paling menguras energi karena baru beberapa menyelesaikan kelas harus menyelesaikan capstone juga dan itu sangatlah berat apalagi bagi yang masih pemula belajar.",
+    grateful:
+      "Hal yang paling aku syukuri adalah bisa ketemu fasilitator seperti kak Afif. Walau sibuk tapi tetep menyempatkan diri untuk memberikan reminder untuk semua kelas CFC-22. Pokoknya salut and bersyukur banget bisa dapet fasilitator yang disiplin dan hebat seperti kak Afif. Dan malah berharap kak Afif jadi dosen di kampusku hehehe. Aku juga bersyukur bisa ketemu teman-teman CFC-22, walau belum terlalu akrab tapi bersukur banget bisa ketemu teman baru di luar kampus. Selain itu bersyukur banget udah bisa nyelesain project capstone tepat waktu walau hasilnya belum maksimal tapi sudah sangat bangga dan bersyukur bisa menyelesaikannya.",
+    changes:
+      "Perubahan terbesar setelah mengikuti program ini adalah bisa memanajemenkan  waktu dengan baik daripada sebelumnya. Terus melatih disiplin diri dan tepat waktu untuk banyak hal. Selain itu belajar komunikasi yang baik dengan orang lain meski di program ini aku belum bisa seaktif orang lain tapi misal ada program selanjutnya akan berusaha menjadi orang yang aktif bersosialisasi ",
   },
   {
     id: "CFCC308D6Y1164",

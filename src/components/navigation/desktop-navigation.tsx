@@ -47,7 +47,7 @@ export function DesktopNavigation() {
                     )}
                   >
                     <div>{item.title}</div>
-                    {isActive && <div className="h-3 w-3 bg-rose-500" />}
+                    {isActive && <div className="h-3 w-3 bg-rose-500 animate-spin" />}
                   </div>
                 )}
               </NavLink>

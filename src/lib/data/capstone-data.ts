@@ -76,9 +76,12 @@ export const capstone: Capstone = [
   {
     id: "CFCC466D6X2042",
     name: "Ismawati",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Menurutku untuk project ini terlalu buru-buru padahal mungkin beberapa orang masih belum menyelesaikan kelas namun sudah di tuntut membuat project yang menurutku sedikit sulit dipahami untuk pemula. Andai project capstone dikasih waktu sedikit lebih lama pasti akan berusaha lebih baik",
+    learning:
+      "Pelajaran yang paling berharga saat mengerjakan project capstone adalah yang paling penting kerja sama tim dan komunikasi yang baik. Karena jika kedua hal itu tidak dilakukan secara maksimal, project yg dikerjakan juga tidak akan selesai. Untuk itu pentingnya komunikasi dan kerjasama tim.",
+    proud:
+      "Bisa menyelesaikan project tepat waktu meksipun banyak tantangannya tapi sangat bangga dengan kerja keras diri sendiri dan juga tim.",
   },
   {
     id: "CFCC308D6Y1164",

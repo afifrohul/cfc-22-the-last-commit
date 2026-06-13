@@ -12,7 +12,7 @@ export default function Header() {
       </div>
       <div className="flex items-center gap-2">
         <p className="text-sm italic">
-          Built by{" "}
+          Developed by{" "}
           <a
             href="https://github.com/afifrohul"
             target="_blank"

@@ -10,12 +10,12 @@ export default function CohortMarquee() {
     <div className="relative flex w-full flex-col items-center justify-center overflow-hidden">
       <Marquee className="[--duration:75s]">
         {firstRow.map((cohort) => (
-          <CohortItemMarquee key={cohort.id} name={cohort.name} />
+          <CohortItemMarquee key={cohort.id} cohort={cohort} />
         ))}
       </Marquee>
       <Marquee reverse className="[--duration:75s]">
         {secondRow.map((cohort) => (
-          <CohortItemMarquee key={cohort.id} name={cohort.name} />
+          <CohortItemMarquee key={cohort.id} cohort={cohort} />
         ))}
       </Marquee>
       <div className="pointer-events-none absolute inset-y-0 left-0 w-1/4 bg-linear-to-r from-background" />

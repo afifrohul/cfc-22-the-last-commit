@@ -7,6 +7,7 @@ type Member = {
   linkedin: string
   portfolio: string
   image: string
+  motto: string
 }[]
 
 export const facil: Member = [
@@ -19,6 +20,7 @@ export const facil: Member = [
     linkedin: "https://linkedin.com/",
     portfolio: "https://afifrohul.vercel.app/",
     image: "",
+    motto: "Berusaha, berdoa, dan beristirahat.",
   },
 ]
 
@@ -32,6 +34,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC726D6X0277",
@@ -42,6 +45,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC694D6Y1628",
@@ -52,6 +56,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC200D6X2177",
@@ -62,6 +67,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC358D6X1820",
@@ -72,6 +78,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC244D6Y2846",
@@ -82,6 +89,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC009D6Y1098",
@@ -92,6 +100,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC220D6X0429",
@@ -102,16 +111,18 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC528D6X0049",
     name: "Inka Triamanda",
     univ: "Politeknik Negeri Medan",
     major: "Teknologi Rekayasa Perangkat Lunak",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/inkatriamanda28",
+    linkedin: "https://www.linkedin.com/in/inka-triamanda-976a723a5/",
     portfolio: "",
     image: "",
+    motto: "Don't decrease the goal, Increase the effort.",
   },
   {
     id: "CFCC466D6X2042",
@@ -122,6 +133,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC308D6Y1164",
@@ -132,6 +144,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC183D6Y2331",
@@ -142,16 +155,19 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC525D6Y0130",
     name: "Moh. Naufal",
     univ: "Politeknik Negeri Banyuwangi",
     major: "Teknologi Rekayasa Komputer",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/naufalpalal",
+    linkedin: "http://www.linkedin.com/in/moh-naufal-57b21b3a6",
     portfolio: "",
     image: "",
+    motto:
+      "Keberhasilan bukan tentang situasi yang sempurna, melainkan tentang bagaimana kita mengelola setiap peluang dengan optimal.",
   },
   {
     id: "CFCC284D6Y2441",
@@ -162,6 +178,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC221D6Y1295",
@@ -172,6 +189,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC308D6Y0365",
@@ -182,6 +200,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC256D6Y2778",
@@ -192,6 +211,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC009D6Y1879",
@@ -202,6 +222,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC284D6X1467",
@@ -212,6 +233,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC573D6Y1062",
@@ -222,6 +244,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC284D6X1956",
@@ -232,6 +255,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC846D6X0782",
@@ -242,6 +266,7 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC476D6Y0656",
@@ -252,16 +277,18 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
   {
     id: "CFCC525D6X0203",
     name: "Wanda Safitri",
     univ: "Politeknik Negeri Banyuwangi",
     major: "Teknologi Rekayasa Komputer",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/wandasvt",
+    linkedin: "https://www.linkedin.com/in/wanda-safitri-01295b3a2/",
     portfolio: "",
     image: "",
+    motto: "I have not come this far to remain the same.",
   },
   {
     id: "CFCC325D6X1330",
@@ -272,5 +299,6 @@ export const cohorts: Member = [
     linkedin: "",
     portfolio: "",
     image: "",
+    motto: "",
   },
 ]

@@ -1,20 +1,32 @@
 import { Card, CardContent } from "@/components/ui/card"
 
-export default function CohortItemMarquee({ name }: { name: string }) {
+type Cohort = {
+  id: string
+  name: string
+}
+
+interface CohortItem {
+  cohort: Cohort
+}
+
+export default function CohortItemMarquee({ cohort }: CohortItem) {
   return (
     <Card className="h-full w-fit cursor-pointer overflow-hidden border border-border bg-card p-4 shadow-none duration-300 hover:border-rose-500">
       <CardContent className="flex flex-col gap-2 p-0">
         <div className="flex flex-row items-center gap-3">
           <img
             className="rounded"
-            width="32"
-            height="32"
+            width="36"
+            height="36"
             alt="image"
-            src={`https://ui-avatars.com/api/?name=${name}&background=random`}
+            src={`https://ui-avatars.com/api/?name=${cohort.name}&background=random`}
           />
           <div className="flex flex-col">
-            <p className="text-xs font-medium text-foreground md:text-sm">
-              {name}
+            <p className="text-xs italic text-muted-foreground font-light">
+              {cohort.id}
+            </p>
+            <p className="text-xs font-medium text-foreground lg:text-sm">
+              {cohort.name}
             </p>
           </div>
         </div>

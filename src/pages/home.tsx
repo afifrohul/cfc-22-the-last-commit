@@ -1,13 +1,16 @@
 import CohortMarquee from "@/components/cohort-marquee"
+import TypingHeadline from "@/components/typing-headline"
 
 export default function Home() {
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="p-10">
-        <h1 className="text-4xl font-black">
-          TheLastCommit —{" "}
-          <span className="text-rose-500">Before We Go</span>{" "}
-        </h1>
+        <TypingHeadline
+          segments={[
+            { text: "TheLastCommit — " },
+            { text: "Before We Go", className: "text-rose-500" },
+          ]}
+        />
         <div className="mt-8 space-y-4">
           <p>
             Tidak terasa perjalanan Coding Camp 2026 sudah hampir sampai di

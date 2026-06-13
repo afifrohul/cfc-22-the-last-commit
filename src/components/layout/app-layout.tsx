@@ -5,6 +5,7 @@ import { MobileNavigation } from "../navigation/mobile-navigation"
 import { ModeToggleKey } from "@/components/mode-toogle-key"
 import Header from "@/components/header"
 import { Separator } from "@/components/ui/separator"
+import { motion } from "motion/react"
 
 export function AppLayout() {
   return (
@@ -15,11 +16,16 @@ export function AppLayout() {
       <main className="min-w-0">
         <MobileNavigation />
 
-        <div className="flex flex-col min-h-screen w-full max-w-4xl">
+        <motion.div
+          className="flex min-h-screen w-full max-w-4xl flex-col"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.1 }}
+        >
           <Header />
-          <Separator className=""/>
+          <Separator className="" />
           <Outlet />
-        </div>
+        </motion.div>
       </main>
     </div>
   )

@@ -4,7 +4,7 @@ import TypingHeadline from "@/components/typing-headline"
 export default function Home() {
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
-      <div className="px-10 pb-10">
+      <div className="px-4 pb-4 md:px-10 md:pb-10">
         <TypingHeadline
           segments={[
             { text: "TheLastCommit — " },

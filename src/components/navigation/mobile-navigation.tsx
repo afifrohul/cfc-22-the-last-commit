@@ -27,7 +27,7 @@ export function MobileNavigation() {
                   {({ isActive }) => (
                     <div className="flex items-center gap-3 text-xl font-black">
                       <div>{item.title}</div>
-                      {isActive && <div className="h-2 w-2 bg-rose-500" />}
+                      {isActive && <div className="h-2 w-2 bg-rose-500 animate-spin" />}
                     </div>
                   )}
                 </NavLink>

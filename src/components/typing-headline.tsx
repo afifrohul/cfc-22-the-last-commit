@@ -38,7 +38,7 @@ export default function TypingHeadline({ segments }: { segments: Segment[] }) {
   let currentLength = 0
 
   return (
-    <h1 className="text-4xl font-black">
+    <h1 className="text-xl md:text-4xl font-black">
       {segments.map((segment, index) => {
         const start = currentLength
         const end = currentLength + segment.text.length

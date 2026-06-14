@@ -19,7 +19,7 @@ export const facil: Member = [
     github: "https://github.com/afifrohul",
     linkedin: "https://linkedin.com/",
     portfolio: "https://afifrohul.vercel.app/",
-    image: "/images/afif.jpeg",
+    image: "/afif.jpg",
     motto: "Berusaha, berdoa, dan beristirahat.",
   },
 ]
@@ -30,12 +30,11 @@ export const cohorts: Member = [
     name: "Aditya Bima Reyhananda",
     univ: "Universitas Tiga Serangkai",
     major: "Sistem Informasi",
-    github: "",
-    linkedin: "",
-    portfolio: "",
-    image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    github: "https://github.com/aditgapelit",
+    linkedin: "https://www.linkedin.com/in/aditya-bima-46932115a/",
+    portfolio: "https://arthaplan.netlify.app",
+    image: "/adit.jpg",
+    motto: "Bekerjalah dalam diam, tahu-tahu sukses, tahu-tahu liburan.",
   },
   {
     id: "CFCC726D6X0277",
@@ -129,7 +128,7 @@ export const cohorts: Member = [
     github: "https://github.com/inkatriamanda28",
     linkedin: "https://www.linkedin.com/in/inka-triamanda-976a723a5/",
     portfolio: "",
-    image: "/images/inka.png",
+    image: "/inka.jpg",
     motto: "Don't decrease the goal, Increase the effort.",
   },
   {
@@ -140,7 +139,7 @@ export const cohorts: Member = [
     github: "https://github.com/Isma0505",
     linkedin: "https://www.linkedin.com/in/isma-wati-b6926b3a8/",
     portfolio: "https://my-portofolio-puce-eight.vercel.app/",
-    image: "/images/ismawati.png",
+    image: "/ismawati.jpg",
     motto:
       "Jika malam mampu bertahan hingga fajar, aku pun mampu bertahan hingga berhasil. Jangan menyerah di awal, karena keberhasilan selalu datang di akhir:)",
   },
@@ -176,7 +175,7 @@ export const cohorts: Member = [
     github: "https://github.com/naufalpalal",
     linkedin: "http://www.linkedin.com/in/moh-naufal-57b21b3a6",
     portfolio: "",
-    image: "/images/naufal.png",
+    image: "/naufal.jpg",
     motto:
       "Keberhasilan bukan tentang situasi yang sempurna, melainkan tentang bagaimana kita mengelola setiap peluang dengan optimal.",
   },
@@ -185,12 +184,12 @@ export const cohorts: Member = [
     name: "Muhammad Aldhan Yusuf",
     univ: "Universitas Negeri Surabaya",
     major: "Teknik Informatika",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/aldhanyusuf",
+    linkedin: "https://www.linkedin.com/in/aldhan-yusuf-a78155293/",
     portfolio: "",
-    image: "",
+    image: "/aldhan.jpg",
     motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+      "Setiap tantangan dan error adalah ruang untuk bertumbuh, sementara setiap baris kode yang ditulis adalah langkah nyata menuju inovasi. Melalui perjalanan di Coding Camp ini, saya belajar bahwa menjadi seorang developer bukan sekadar tentang merangkai logika dan sintaks, melainkan tentang ketekunan beradaptasi untuk terus membangun solusi teknologi yang bermanfaat dan berdampak luas.",
   },
   {
     id: "CFCC221D6Y1295",
@@ -308,7 +307,7 @@ export const cohorts: Member = [
     github: "https://github.com/wandasvt",
     linkedin: "https://www.linkedin.com/in/wanda-safitri-01295b3a2/",
     portfolio: "",
-    image: "/images/wanda.png",
+    image: "/wanda.jpg",
     motto: "I have not come this far to remain the same.",
   },
   {
@@ -316,11 +315,11 @@ export const cohorts: Member = [
     name: "Wulan Pristia Nanda",
     univ: "Universitas Tarumanagara",
     major: "Sistem Informasi",
-    github: "",
-    linkedin: "",
-    portfolio: "",
-    image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    github: "https://github.com/wulanpristian",
+    linkedin: "https://www.linkedin.com/in/wulan-pristia-nanda/",
+    portfolio:
+      "https://693f141355604a3090215f0c--boisterous-boba-8a578f.netlify.app/",
+    image: "/wulan.jpg",
+    motto: "Yang penting bahagia, sisanya menyusul.",
   },
 ]

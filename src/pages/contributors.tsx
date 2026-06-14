@@ -26,7 +26,7 @@ export default function Contributors() {
             <p className="font-semibold text-rose-500 italic">Facilitator</p>
             <div className="h-px w-full rounded border-b" />
           </div>
-          <div className="mt-2 grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="mt-2 grid md:grid-cols-2 lg:grid-cols-4 gap-3">
             {facil.map((item, index) => (
               <ProfileCard key={index} data={item} />
             ))}
@@ -37,7 +37,7 @@ export default function Contributors() {
             <p className="font-semibold text-rose-500 italic">Cohorts</p>
             <div className="h-px w-full rounded border-b" />
           </div>
-          <div className="mt-2 grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="mt-2 grid md:grid-cols-2 lg:grid-cols-4 gap-3">
             {cohorts.map((item, index) => (
               <ProfileCard key={index} data={item} />
             ))}

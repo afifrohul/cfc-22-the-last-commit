@@ -10,9 +10,11 @@ export const timeCapsule: TimeCapsule = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Halo adit 5 tahun lagi, semoga sekarang kamu sudah nggak panik kalau lihat saldo rekening dan masih ingat rasanya begadang karena deadline Coding Camp. Kalau hidupmu sekarang sudah keren, jangan lupa bersyukur. Kalau ternyata belum sesuai ekspektasi, jangan terlalu keras sama diri sendiri. Setidaknya kamu sudah berani memulai dan terus berjalan.",
+    hope: "Semoga di tahun 2031 aku sudah menjadi seseorang yang berguna, bukan hanya untuk diriku sendiri, tetapi juga untuk keluarga, teman-teman, dan orang-orang di sekitarku. Semoga ilmu, pengalaman, dan kesempatan yang aku miliki bisa memberikan manfaat dan membawa dampak positif bagi banyak orang.",
+    promise:
+      "Saya berjanji untuk tidak berhenti belajar hanya karena program ini telah selesai. Saya akan terus mengembangkan kemampuan, membangun portofolio, mencari pengalaman baru, dan berani mengambil peluang yang datang. Coding Camp mungkin berakhir, tetapi perjalanan untuk menjadi versi terbaik dari diri saya masih terus berlanjut.",
   },
   {
     id: "CFCC726D6X0277",
@@ -74,9 +76,11 @@ export const timeCapsule: TimeCapsule = [
   {
     id: "CFCC466D6X2042",
     name: "Ismawati",
-    message: "Semoga dalam 5 tahun kedepan bisa menjadi programmer/desainer profesional dan bisa bekerja di salah satu perusahaan besar dengan begitu bisa membuat orang tua bahagia dan bisa membeli rumah dan mobil yang diimpikan.",
+    message:
+      "Semoga dalam 5 tahun kedepan bisa menjadi programmer/desainer profesional dan bisa bekerja di salah satu perusahaan besar dengan begitu bisa membuat orang tua bahagia dan bisa membeli rumah dan mobil yang diimpikan.",
     hope: "Di posisi programmer atau sebagai fashion desainer, syukur-syukur bisa jadi CEO kaya yang ada di drama china wkwkwk",
-    promise: "Berjanji akan terus belajar walau malas sekalipun, setidaknya meluangkan waktu minimal 30 menit untuk belajar dan mencari ilmu baru",
+    promise:
+      "Berjanji akan terus belajar walau malas sekalipun, setidaknya meluangkan waktu minimal 30 menit untuk belajar dan mencari ilmu baru",
   },
   {
     id: "CFCC308D6Y1164",
@@ -103,9 +107,11 @@ export const timeCapsule: TimeCapsule = [
   {
     id: "CFCC284D6Y2441",
     name: "Muhammad Aldhan Yusuf",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Halo Aldhan di tahun 2031. Kalau kamu membaca pesan ini, ingatlah kembali masa-masa begadang menyelesaikan error, merancang arsitektur client-server, dan merampungkan Capstone Project 'SentimenAI'. Jangan pernah lupakan rasa bangga saat kodemu akhirnya berjalan tanpa bug. Semoga di usiamu yang sekarang, kamu tidak pernah kehilangan rasa ingin tahu, keberanian untuk mencoba teknologi baru, dan semangat pantang menyerah yang sama seperti saat kamu berjuang lulus dari Coding Camp ini. Teruslah berkarya dan tetap membumi.",
+    hope: "Dalam lima tahun ke depan, saya berharap sudah mantap berkarir sebagai Senior Full-Stack Developer atau Tech Lead. Saya ingin berada di posisi di mana saya tidak hanya mahir merancang perangkat lunak yang responsif dan kokoh, tetapi juga ahli dalam mengintegrasikan solusi AI serta infrastruktur Cloud ke dalam produk berskala besar. Harapan saya adalah berada di sebuah tim atau perusahaan di mana baris kode yang saya tulis bisa memecahkan masalah kompleks dan memberikan dampak positif yang nyata bagi masyarakat.",
+    promise:
+      "Saya berjanji kepada diri sendiri untuk tidak pernah berhenti belajar dan menjadikan eksplorasi teknologi sebagai kebiasaan seumur hidup. Lulus dari Coding Camp ini bukanlah sebuah garis akhir, melainkan titik awal untuk terus mengasah logika, membangun portofolio yang lebih menantang, dan selalu memiliki ketekunan untuk bangkit setiap kali dihadapkan pada kebuntuan (error).",
   },
   {
     id: "CFCC221D6Y1295",
@@ -182,8 +188,9 @@ export const timeCapsule: TimeCapsule = [
   {
     id: "CFCC325D6X1330",
     name: "Wulan Pristia Nanda",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "semoga kamu 5 tahun kedepan udah dapet pekerjaan yang enakk, lingkungan yang nyaman, kemudian kalo bisa udah keliling di negara negara yang kamu pengen datengin banget sekarangggg",
+    hope: "punya lingkungan yang nyaman terus menjalin hubungan baik sama keluarga, teman, dan semuanyaa, kemudian dapet kerjaan sesuai passion akuu",
+    promise: "Mau belajar bahasaaa",
   },
 ]

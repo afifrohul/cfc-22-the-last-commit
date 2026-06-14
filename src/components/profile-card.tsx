@@ -17,13 +17,18 @@ interface Datadata {
 
 export default function ProfileCard({ data }: Datadata) {
   const navigate = useNavigate()
+
+  function truncateString(str: string, maxLength: number) {
+    return str.length > maxLength ? str.slice(0, maxLength) + "..." : str
+  }
+
   return (
     <div onClick={() => navigate(`/contributors/${data.id}`)}>
-      <div className="w-full rounded p-2 transition-all duration-200 hover:bg-accent hover:cursor-pointer">
+      <div className="w-full rounded p-2 transition-all duration-200 hover:cursor-pointer hover:bg-accent">
         <img
           src={
             data.image !== ""
-              ? data.image
+              ? `/images/normal/${data.image}`
               : `https://ui-avatars.com/api/?name=${data.name}&background=random`
           }
           alt="image"
@@ -33,7 +38,7 @@ export default function ProfileCard({ data }: Datadata) {
           <p className="text-xs text-muted-foreground">{data.id}</p>
           <p className="text-sm font-medium">{data.name}</p>
           <blockquote className="mt-2 border-l-2 pl-3 text-xs italic">
-            {data.motto}
+            "{truncateString(data.motto, 100)}"
           </blockquote>
         </div>
         <div className="datas-center mt-4 flex gap-2">

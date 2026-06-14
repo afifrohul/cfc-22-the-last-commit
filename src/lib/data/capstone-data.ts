@@ -10,9 +10,12 @@ export const capstone: Capstone = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "capstone project menjadi salah satu bagian yang paling berkesan dalam Coding Camp. Melalui project ini, saya bisa menerapkan materi yang telah dipelajari ke dalam sebuah proyek yang lebih nyata.",
+    learning:
+      "Pelajaran terbesar yang aku dapatkan adalah bahwa membangun sebuah aplikasi tidak hanya tentang menulis kode, tetapi juga tentang bekerja sama, berdiskusi, dan menyelesaikan masalah bersama tim. Komunikasi yang paling penting, karena komunikasi yang baik sering kali sama pentingnya dengan kemampuan teknis.",
+    proud:
+      "Yang bikin aku bangga adalah project capstone ku bisa selesai, bisa deploy, bisa berfungsi tepat waktu walaupun penuh huru-hara yang bikin panik setengah mati. Ada masalah laptop rusak lah, repository nya ilang lah, gabisa dihubungi padahal bikin instagram story. overall pengalaman ku di coding camp ini worth it banget.",
   },
   {
     id: "CFCC726D6X0277",
@@ -109,9 +112,12 @@ export const capstone: Capstone = [
   {
     id: "CFCC284D6Y2441",
     name: "Muhammad Aldhan Yusuf",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Capstone project di program ini sangat menantang sekaligus menjadi wadah pembuktian nyata dari semua materi yang telah dipelajari. Ini bukan sekadar tugas akhir biasa, melainkan simulasi sesungguhnya dalam membangun produk teknologi dari nol hingga siap pakai. Keharusan untuk menggabungkan ranah kecerdasan buatan (AI) dengan arsitektur Full-Stack Web Development menjadi satu platform yang utuh benar-benar memberikan gambaran komprehensif mengenai kolaborasi di industri teknologi yang sebenarnya.",
+    learning:
+      "Pelajaran terbesarnya adalah tentang integrasi sistem dan kolaborasi. Secara teknikal, saya belajar banyak mengenai bagaimana merancang arsitektur agar back-end Laravel bisa berkomunikasi dengan server AI untuk memproses data teks tanpa hambatan (crash). Selain itu, saya juga belajar bahwa kehebatan teknologi di belakang layar harus selalu diimbangi dengan kenyamanan pengguna di layar depan (front-end), seperti pentingnya merancang UI yang responsif dengan tema dark mode agar mata pengguna tidak cepat lelah saat menganalisis data.",
+    proud:
+      "Saya sangat bangga melihat 'SentimenAI' berhasil berdiri sebagai satu platform yang fungsional dan terintegrasi penuh. Momen ketika antarmuka web yang saya bangun mampu menerima input berita dari pengguna, memprosesnya melalui model AI secara real-time, dan langsung menampilkannya dalam bentuk visualisasi yang indah di dasbor adalah kepuasan yang luar biasa. Saya bangga karena kami tidak hanya sekadar menulis kode, tetapi berhasil merampungkan sebuah solusi digital yang berpotensi membantu investor retail mengambil keputusan secara lebih objektif dan rasional.",
   },
   {
     id: "CFCC221D6Y1295",
@@ -189,8 +195,10 @@ export const capstone: Capstone = [
   {
     id: "CFCC325D6X1330",
     name: "Wulan Pristia Nanda",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "capstone awal awal berat sih tapi pas udah dijalanin bisa enjoy aja, kemudian dapet kelompok baru jugaa",
+    learning:
+      "tantangan berat sih tentu karena takut untuk nanti penilaian terus juga takut hasil nya ga memuaskan, atau ada yang salah",
+    proud: "kerja sama tim",
   },
 ]

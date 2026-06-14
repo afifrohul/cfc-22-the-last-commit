@@ -11,10 +11,14 @@ export const journeys: Journey = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Awalnya aku ikut Coding Camp dengan harapan bisa menambah skill coding. Ternyata lebih dari itu. Selain belajar banyak hal tentang pengembangan web, aku juga belajar disiplin, komunikasi, problem solving, dan pentingnya terus belajar. Walaupun sering pusing karena error dan deadline, hehe.",
+    challenge:
+      "Tantangan terbesar yang aku hadapi adalah membagi waktu antara mengikuti Coding Camp, kegiatan perkuliahan, dan tanggung jawab lainnya.",
+    grateful:
+      "aku bersyukur karena aku bisa mendapatkan materi yang berkualitas, ilmu dari mentor mentor, pengetahuan teknis yang lebih luas, dan masih banyak lagi.",
+    changes:
+      "Sebelum ikut Coding Camp, aku sering merasa kurang yakin dengan kemampuanku di bidang ini. Setelah mengikuti program ini, aku jadi lebih percaya diri karena sadar bahwa kemampuan bisa berkembang kalau terus belajar dan berlatih. Walaupun masih trauma kalau ada error.",
   },
   {
     id: "CFCC726D6X0277",
@@ -126,10 +130,14 @@ export const journeys: Journey = [
   {
     id: "CFCC284D6Y2441",
     name: "Muhammad Aldhan Yusuf",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Sebelum bergabung, ekspektasi saya adalah program ini mungkin hanya akan berisi materi-materi teori dasar seputar web development seperti pembelajaran pada umumnya. Namun, kesan pertama saya langsung berubah ketika melihat kurikulum Learning Path Full-Stack yang ternyata sangat intensif, terstruktur, dan benar-benar mensimulasikan tantangan di lingkungan kerja developer profesional, lengkap dengan tenggat waktu proyek yang ketat.",
+    challenge:
+      "Tantangan terberat adalah ketika harus menyatukan berbagai teknologi yang berbeda ke dalam satu arsitektur yang utuh dan berjalan lancar. Khususnya saat mengerjakan Capstone Project, menyelaraskan back-end Laravel, front-end Vite yang responsif, manajemen basis data menggunakan MongoDB Atlas, hingga mengintegrasikan API untuk model AI agar bisa berjalan real-time benar-benar menguji batas kemampuan problem-solving dan kesabaran saya dalam melakukan debugging.",
+    grateful:
+      "Saya sangat mensyukuri kesempatan untuk mengerjakan proyek-proyek riil secara mandiri maupun tim, mulai dari membangun arsitektur client-server untuk aplikasi mikroblogging hingga puncaknya pada proyek platform analisis sentimen. Saya juga sangat bersyukur atas ratusan error dan bug yang saya temui, karena dari sanalah saya belajar ketekunan yang sesungguhnya.",
+    changes:
+      "Perubahan terbesar ada pada mindset dan tingkat kepercayaan diri saya secara teknikal. Sebelumnya, saya sering kali merasa ragu saat berhadapan dengan framework atau teknologi baru. Namun setelah lulus dari program ini, saya memiliki mentalitas untuk cepat beradaptasi dan merasa jauh lebih siap untuk membangun sebuah produk perangkat lunak secara end-to-end (Full-Stack) yang benar-benar siap digunakan oleh pengguna.",
   },
   {
     id: "CFCC221D6Y1295",
@@ -218,9 +226,12 @@ export const journeys: Journey = [
   {
     id: "CFCC325D6X1330",
     name: "Wulan Pristia Nanda",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Awalnya saya berpikir Coding Camp hanya akan berisi materi coding dan tugas-tugas biasa. Tapi setelah ikut, ternyata programnya lebih seru dan menantang dari yang saya bayangkan. Selain belajar teknis, saya juga bisa bertemu banyak teman baru dengan latar belakang yang beda beda.",
+    challenge:
+      "Tantangan terbesar tentu membagi waktu antara tugas, dan kegiatan Coding Camp. Apalagi saat deadline tugas  datang bersamaan.",
+    grateful:
+      "bersyukur karena selain dapet ilmu baru dapet juga temen temen baru, mentor yang baik jugaa",
+    changes: "lebih mengatur jadwal ",
   },
 ]

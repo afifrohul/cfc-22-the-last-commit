@@ -22,7 +22,7 @@ export default function CohortItemMarquee({ cohort }: CohortItem) {
             alt="image"
             src={
               cohort.image !== ""
-                ? cohort.image
+                ? `/images/small/${cohort.image}`
                 : `https://ui-avatars.com/api/?name=${cohort.name}&background=random`
             }
           />

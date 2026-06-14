@@ -10,9 +10,10 @@ export const funFact: FunFact = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "144",
+    web: "ChatGpt, Gemini, V0, YouTube, Github, kayanya aku lebih sering chat-an sama Gpt daripada sama cewek",
+    friend:
+      "kopi, musik tergantung mood, kalau pusing banget tambah pake marbol",
   },
   {
     id: "CFCC726D6X0277",
@@ -101,9 +102,10 @@ export const funFact: FunFact = [
   {
     id: "CFCC284D6Y2441",
     name: "Muhammad Aldhan Yusuf",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "Jujur, pernah sampai sekitar 10-20 tab sekaligus! Mulai dari tab dokumentasi Laravel, dan lain lain. puluhan tab thread Stack Overflow yang isinya mencari solusi error, sampai beberapa tab untuk mencari referensi desain UI/UX.",
+    web: "Stack Overflow (sangat menyelamatkan nyawa saat debugging), ChatGPT / Gemini untuk brainstorming kode, dokumentasi resmi (Laravel dan Vite), GitHub, dan pastinya YouTube untuk mencari tutorial tambahan.",
+    friend:
+      "Kopi untuk menjaga mata tetap melek saat ngoding sampai larut malam, ditemani playlist musik synthwave agar tetap fokus, plus sesekali mie instan kalau sudah terlalu asyik debugging sampai lupa waktu.",
   },
   {
     id: "CFCC221D6Y1295",
@@ -179,8 +181,8 @@ export const funFact: FunFact = [
   {
     id: "CFCC325D6X1330",
     name: "Wulan Pristia Nanda",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "kayanya 4 dehh heheheh",
+    web: "Claude, Github, VsCode, spotify",
+    friend: "Playlistt, dan miee goreng aceh sm telor setengah mateng hehe",
   },
 ]

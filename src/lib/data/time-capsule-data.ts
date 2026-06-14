@@ -1,12 +1,12 @@
-type TimeCapsule = {
+export type TimeCapsule = {
   id: string
   name: string
   message: string
   hope: string
   promise: string
-}[]
+}
 
-export const timeCapsule: TimeCapsule = [
+export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",

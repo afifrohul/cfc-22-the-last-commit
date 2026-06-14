@@ -1,13 +1,13 @@
-type Journey = {
+export type Journey = {
   id: string
   name: string
   expectation: string
   challenge: string
   grateful: string
   changes: string
-}[]
+}
 
-export const journeys: Journey = [
+export const journeys: Journey[] = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",

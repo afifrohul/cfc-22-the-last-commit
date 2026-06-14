@@ -1,12 +1,12 @@
-type Capstone = {
+export type Capstone = {
   id: string
   name: string
   opinion: string
   learning: string
   proud: string
-}[]
+}
 
-export const capstone: Capstone = [
+export const capstone: Capstone[] = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",

@@ -1,12 +1,12 @@
-type FunFact = {
+export type FunFact = {
   id: string
   name: string
   tab: string
   web: string
   friend: string
-}[]
+}
 
-export const funFact: FunFact = [
+export const funFact: FunFact[] = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",

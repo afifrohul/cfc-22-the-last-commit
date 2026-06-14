@@ -1,4 +1,4 @@
-type Member = {
+export type Member = {
   id: string
   name: string
   univ: string
@@ -8,9 +8,9 @@ type Member = {
   portfolio: string
   image: string
   motto: string
-}[]
+}
 
-export const facil: Member = [
+export const facil: Member[] = [
   {
     id: "FACIL-CFC-22",
     name: "Afif Rohul Abrori",
@@ -24,7 +24,7 @@ export const facil: Member = [
   },
 ]
 
-export const cohorts: Member = [
+export const cohorts: Member[] = [
   {
     id: "CFCC899D6Y2812",
     name: "Aditya Bima Reyhananda",

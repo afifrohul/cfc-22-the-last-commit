@@ -46,7 +46,11 @@ export default function Journey() {
               <TabsContentItem
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    Sebelum bergabung Coding Camp, apa <span className="text-rose-500 underline">ekspektasi atau kesan pertamamu</span> terhadap program ini?
+                    Sebelum bergabung Coding Camp, apa{" "}
+                    <span className="text-rose-500 underline">
+                      ekspektasi atau kesan pertamamu
+                    </span>{" "}
+                    terhadap program ini?
                   </p>
                 }
                 data={expectation}
@@ -56,7 +60,11 @@ export default function Journey() {
               <TabsContentItem
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    Apa <span className="text-rose-500 underline">tantangan terbesar</span> yang kamu hadapi selama mengikuti Coding Camp?
+                    Apa{" "}
+                    <span className="text-rose-500 underline">
+                      tantangan terbesar
+                    </span>{" "}
+                    yang kamu hadapi selama mengikuti Coding Camp?
                   </p>
                 }
                 data={challenge}
@@ -66,7 +74,9 @@ export default function Journey() {
               <TabsContentItem
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    Hal apa yang paling kamu <span className="text-rose-500 underline"> syukuri</span> dari perjalanan ini?
+                    Hal apa yang paling kamu{" "}
+                    <span className="text-rose-500 underline"> syukuri</span>{" "}
+                    dari perjalanan ini?
                   </p>
                 }
                 data={grateful}
@@ -76,7 +86,11 @@ export default function Journey() {
               <TabsContentItem
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    Apa <span className="text-rose-500 underline">perubahan terbesar</span> pada dirimu setelah mengikuti program ini?
+                    Apa{" "}
+                    <span className="text-rose-500 underline">
+                      perubahan terbesar
+                    </span>{" "}
+                    pada dirimu setelah mengikuti program ini?
                   </p>
                 }
                 data={changes}

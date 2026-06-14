@@ -37,10 +37,10 @@ export default function Journey() {
         <div className="mt-8">
           <Tabs defaultValue="expectation" className="w-full">
             <TabsList>
-              <TabsTrigger value="expectation">Expectation</TabsTrigger>
-              <TabsTrigger value="challenge">Challenge</TabsTrigger>
-              <TabsTrigger value="grateful">Grateful</TabsTrigger>
-              <TabsTrigger value="changes">Changes</TabsTrigger>
+              <TabsTrigger value="expectation">Ekspektasi</TabsTrigger>
+              <TabsTrigger value="challenge">Tantangan</TabsTrigger>
+              <TabsTrigger value="grateful">Bersyukur</TabsTrigger>
+              <TabsTrigger value="changes">Perubahan</TabsTrigger>
             </TabsList>
             <TabsContent value="expectation">
               <TabsContentItem

@@ -34,9 +34,9 @@ export default function Capstone() {
         <div className="mt-8">
           <Tabs defaultValue="opinion" className="w-full">
             <TabsList>
-              <TabsTrigger value="opinion">Opinion</TabsTrigger>
-              <TabsTrigger value="learning">Learning</TabsTrigger>
-              <TabsTrigger value="proud">Proud</TabsTrigger>
+              <TabsTrigger value="opinion">Pendapat</TabsTrigger>
+              <TabsTrigger value="learning">Pembelajaran</TabsTrigger>
+              <TabsTrigger value="proud">Bangga</TabsTrigger>
             </TabsList>
             <TabsContent value="opinion">
               <TabsContentItem

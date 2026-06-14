@@ -45,8 +45,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC694D6Y1628",
@@ -57,8 +56,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC200D6X2177",
@@ -69,8 +67,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC358D6X1820",
@@ -81,8 +78,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC244D6Y2846",
@@ -93,8 +89,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC009D6Y1098",
@@ -105,8 +100,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC220D6X0429",
@@ -117,8 +111,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC528D6X0049",
@@ -152,8 +145,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC183D6Y2331",
@@ -164,8 +156,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC525D6Y0130",
@@ -200,8 +191,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC308D6Y0365",
@@ -212,8 +202,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC256D6Y2778",
@@ -224,8 +213,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC009D6Y1879",
@@ -236,8 +224,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC284D6X1467",
@@ -248,8 +235,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC573D6Y1062",
@@ -260,8 +246,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC284D6X1956",
@@ -272,8 +257,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC846D6X0782",
@@ -295,8 +279,7 @@ export const cohorts: Member[] = [
     linkedin: "",
     portfolio: "",
     image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    motto: "",
   },
   {
     id: "CFCC525D6X0203",

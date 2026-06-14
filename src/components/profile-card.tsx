@@ -1,5 +1,6 @@
 import { FaGithubSquare, FaGlobe, FaLinkedin } from "react-icons/fa"
 import { LuSquareArrowOutUpRight } from "react-icons/lu"
+import { faker } from "@faker-js/faker"
 
 type Data = {
   id: string
@@ -35,7 +36,11 @@ export default function ProfileCard({ data }: Datadata) {
         <p className="text-xs text-muted-foreground">{data.id}</p>
         <p className="text-sm font-medium">{data.name}</p>
         <blockquote className="mt-2 border-l-2 pl-3 text-xs italic">
-          "{truncateString(data.motto, 100)}"
+          "
+          {data.motto !== ""
+            ? truncateString(data.motto, 100)
+            : faker.lorem.sentence({ min: 5, max: 9 })}
+          "
         </blockquote>
       </div>
       <div className="mt-4 flex items-center justify-between">

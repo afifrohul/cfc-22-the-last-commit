@@ -171,9 +171,9 @@ export const capstone: Capstone = [
   {
     id: "CFCC846D6X0782",
     name: "Shinta Aulia Pasha",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "-",
+    learning: "-",
+    proud: "-",
   },
   {
     id: "CFCC476D6Y0656",

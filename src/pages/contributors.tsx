@@ -12,11 +12,12 @@ export default function Contributors() {
             { text: "The Repository", className: "text-rose-500" },
           ]}
         />
-        <div className="mt-4 lg:mt-8 space-y-4">
+        <div className="mt-4 space-y-4 lg:mt-8">
           <p>
-            Behind every commit, there is a person with their own story. This is
-            a collection of the people who shared the same journey, faced the
-            same challenges, and grew together throughout Coding Camp 2026.
+            Di balik setiap commit, ada seseorang dengan kisahnya
+            masing-masing. Ini adalah kumpulan kisah orang-orang yang menjalani
+            perjalanan yang sama, menghadapi tantangan yang sama, dan tumbuh
+            bersama selama Coding Camp 2026.
           </p>
         </div>
       </div>
@@ -26,7 +27,7 @@ export default function Contributors() {
             <p className="font-semibold text-rose-500 italic">Facilitator</p>
             <div className="h-px w-full rounded border-b" />
           </div>
-          <div className="mt-2 grid md:grid-cols-2 lg:grid-cols-4 gap-3">
+          <div className="mt-2 grid gap-3 md:grid-cols-2 lg:grid-cols-4">
             {facil.map((item, index) => (
               <ProfileCard key={index} data={item} />
             ))}
@@ -37,7 +38,7 @@ export default function Contributors() {
             <p className="font-semibold text-rose-500 italic">Cohorts</p>
             <div className="h-px w-full rounded border-b" />
           </div>
-          <div className="mt-2 grid md:grid-cols-2 lg:grid-cols-4 gap-3">
+          <div className="mt-2 grid gap-3 md:grid-cols-2 lg:grid-cols-4">
             {cohorts.map((item, index) => (
               <ProfileCard key={index} data={item} />
             ))}

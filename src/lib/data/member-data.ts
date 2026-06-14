@@ -280,12 +280,11 @@ export const cohorts: Member = [
     name: "Shinta Aulia Pasha",
     univ: "Universitas Muhammadiyah Pontianak",
     major: "Teknik Informatika",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/",
+    linkedin: "https://linkedin.com/",
     portfolio: "",
-    image: "",
-    motto:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam alias ab",
+    image: "/shinta.jpg",
+    motto: "-",
   },
   {
     id: "CFCC476D6Y0656",

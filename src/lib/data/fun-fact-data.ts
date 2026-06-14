@@ -159,9 +159,9 @@ export const funFact: FunFact = [
   {
     id: "CFCC846D6X0782",
     name: "Shinta Aulia Pasha",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "-",
+    web: "-",
+    friend: "-",
   },
   {
     id: "CFCC476D6Y0656",

@@ -198,10 +198,10 @@ export const journeys: Journey = [
   {
     id: "CFCC846D6X0782",
     name: "Shinta Aulia Pasha",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation: "-",
+    challenge: "-",
+    grateful: "-",
+    changes: "-",
   },
   {
     id: "CFCC476D6Y0656",

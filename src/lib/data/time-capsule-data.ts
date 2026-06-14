@@ -165,9 +165,9 @@ export const timeCapsule: TimeCapsule = [
   {
     id: "CFCC846D6X0782",
     name: "Shinta Aulia Pasha",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "-",
+    hope: "-",
+    promise: "-",
   },
   {
     id: "CFCC476D6Y0656",

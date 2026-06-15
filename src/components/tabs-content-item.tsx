@@ -1,27 +1,23 @@
-import ContentItem from "@/components/content-item"
-import type { ReactElement } from "react"
-
-type Data = {
-  name: string
-  content: string
-}
-
-interface TabsContentItemInterface {
-  headline: ReactElement
-  data: Data[]
-}
+import { faker } from "@faker-js/faker"
 
 export default function TabsContentItem({
-  headline,
-  data,
-}: TabsContentItemInterface) {
+  name,
+  content,
+}: {
+  name: string
+  content: string
+}) {
   return (
-    <div className="mt-4">
-      {headline}
-      <div className="mt-8 flex flex-col gap-6">
-        {data.map((item, index) => (
-          <ContentItem name={item.name} content={item.content} key={index} />
-        ))}
+    <div className="grid md:grid-cols-3">
+      <div>
+        <p className="text-base font-medium text-rose-500">{name}</p>
+      </div>
+      <div className="md:col-span-2">
+        <p className="text-sm">
+          {content !== ""
+            ? content
+            : faker.lorem.sentence({ min: 17, max: 45 })}
+        </p>
       </div>
     </div>
   )

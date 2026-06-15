@@ -1,6 +1,6 @@
 import TypingHeadline from "@/components/typing-headline"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import TabsContentItem from "@/components/tabs-content-item"
+import TabsContentList from "@/components/tabs-content-list"
 import { timeCapsule } from "@/lib/data/time-capsule-data"
 
 const message = timeCapsule.map((item) => {
@@ -38,7 +38,7 @@ export default function TimeCapsule() {
               <TabsTrigger value="promise">Janji</TabsTrigger>
             </TabsList>
             <TabsContent value="message">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Tulis <span className="text-rose-500 underline">pesan</span>{" "}
@@ -50,7 +50,7 @@ export default function TimeCapsule() {
               />
             </TabsContent>
             <TabsContent value="hope">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Dalam 5 tahun ke depan, kamu{" "}
@@ -62,7 +62,7 @@ export default function TimeCapsule() {
               />
             </TabsContent>
             <TabsContent value="promise">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Satu <span className="text-rose-500 underline">janji</span>{" "}

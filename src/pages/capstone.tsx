@@ -1,4 +1,4 @@
-import TabsContentItem from "@/components/tabs-content-item"
+import TabsContentList from "@/components/tabs-content-list"
 import TypingHeadline from "@/components/typing-headline"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { capstone } from "@/lib/data/capstone-data"
@@ -39,7 +39,7 @@ export default function Capstone() {
               <TabsTrigger value="proud">Bangga</TabsTrigger>
             </TabsList>
             <TabsContent value="opinion">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Bagaimana{" "}
@@ -51,7 +51,7 @@ export default function Capstone() {
               />
             </TabsContent>
             <TabsContent value="learning">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa{" "}
@@ -65,7 +65,7 @@ export default function Capstone() {
               />
             </TabsContent>
             <TabsContent value="proud">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Hal apa yang paling{" "}

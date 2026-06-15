@@ -1,4 +1,4 @@
-import TabsContentItem from "@/components/tabs-content-item"
+import TabsContentList from "@/components/tabs-content-list"
 import TypingHeadline from "@/components/typing-headline"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { journeys } from "@/lib/data/journey-data"
@@ -43,7 +43,7 @@ export default function Journey() {
               <TabsTrigger value="changes">Perubahan</TabsTrigger>
             </TabsList>
             <TabsContent value="expectation">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Sebelum bergabung Coding Camp, apa{" "}
@@ -57,7 +57,7 @@ export default function Journey() {
               />
             </TabsContent>
             <TabsContent value="challenge">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa{" "}
@@ -71,7 +71,7 @@ export default function Journey() {
               />
             </TabsContent>
             <TabsContent value="grateful">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Hal apa yang paling kamu{" "}
@@ -83,7 +83,7 @@ export default function Journey() {
               />
             </TabsContent>
             <TabsContent value="changes">
-              <TabsContentItem
+              <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa{" "}

@@ -158,10 +158,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC256D6Y2778",
     name: "Muhammad Hafidz",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Kesan pertama yang saya rasakan adalah rasa seru dan excited karena, sebelumnya di lingkungan saya aku merasa sendiri dan jarang menemukan teman yang memilika minat yang sama di bidang pemrograman, walaupun di jurusan saya itu teknik informatika tetapi jarang sekali orang yang benar-benar memiliki minat dan keinginan yang sama sehingga aku seting merasa sendiri dan tidak ada teman untuk sama2 berkembang dan belajar bersama.",
+    challenge:
+      "mungkin di masalah  manajemen waktu diantara kesibukan saya yaitu mengerjakan tugas kuliah, PKL yaitu membuat sistem perpustakaan digital untuk kampus saya  sendiri, ngajar bimbel komputer, ngerjain project freelance, mengerjakan kelas2 dan pertemuan di dicoding dan push rank mobile legen hehe. Tapi alhamdulillah semuanya  terbayar ketika aku sudah berada di titik ini, saya sangat berterimakasih kepada semua orang2 yang sudah membantu saya dalam banyak hal, dan tentunya kak afif sebagai fasilitator saya yang sangat  terbaik, karena sudah membimbing dan membantu saya pada program dbs ini suka mengingatkan ketika aku blm join meet atau blm menyelesaikan kelas dan submission. terimakasih banyak kak.",
+    grateful:
+      "Banyak hal yang aku syukuri, karena aku sudah berhasil menyelesaikan kelas ini diantara banyak nya kesibukan saya. aku sangat bersyukur karena aku dapat menjalani semua ini dengan baik.",
+    changes:
+      "Pertama adalah motivasi saya dalam mengejar mimpi saya di bidang programming, dan lebih menghargai waktu, disiplin dan tanggung jawab.",
   },
   {
     id: "CFCC009D6Y1879",

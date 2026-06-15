@@ -130,9 +130,10 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC256D6Y2778",
     name: "Muhammad Hafidz",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Terimakasih sudah berjalan sejauh ini, ingat selalu mimpi terbesar kamu, ingatlah kenapa kamu memulainya dulu, teruslah melangkah dan jangan pernah menyerah.",
+    hope: "Aku berharap aku berada di posisi yang cukup dan tidak berkekurangan, menjadi seseorang yang bekerja di bidang IT seperi programmer, network engginer dan sebagainya dengan posisi yang baik.",
+    promise: "Satu hal yang pasti, aku akan menjadi programmer.",
   },
   {
     id: "CFCC009D6Y1879",

@@ -209,11 +209,12 @@ export const cohorts: Member[] = [
     name: "Muhammad Hafidz",
     univ: "Universitas Muhammadiyah Cirebon",
     major: "Teknik Informatika",
-    github: "",
-    linkedin: "",
-    portfolio: "",
-    image: "",
-    motto: "",
+    github: "https://github.com/hafidz1112",
+    linkedin:
+      "https://www.linkedin.com/in/muhammad-hafidz-074501277/?locale=en",
+    portfolio: "https://mhafidz.vercel.app/",
+    image: "/hafidz.jpg",
+    motto: "'Hiduplah, bersenang-senanglah, dan bekerjalah.' — Ferry Irwandi",
   },
   {
     id: "CFCC009D6Y1879",

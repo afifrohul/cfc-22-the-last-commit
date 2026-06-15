@@ -136,9 +136,11 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC256D6Y2778",
     name: "Muhammad Hafidz",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "yah cukup seru walaupun kurang puas dengan hasil akhirnya",
+    learning:
+      "Belajar bagaimana kita bekerja dalam tim, dan karena aku sebagai ketua tim yang harus mengarahkan teman2 saya ke jalan yang  benar wkwk, belajar membuat project plan yang  sesuai dan mengarahkan tim saya harus membuat ini itu dan ini itu. karena anggota tim nya cukum sulit juga diajak kerjasama tetapi alhamdulillah project kita selesai tepat waktu, walaupun seperti itu tim ku juga terbaik.",
+    proud:
+      "Aku berhasil mengarahkan semua anggota tim saya untuk menyelesaikan tugas mereka masing-masing dan menyelesaikan capstone hingga selesai menuju presentasi dan per review.",
   },
   {
     id: "CFCC009D6Y1879",

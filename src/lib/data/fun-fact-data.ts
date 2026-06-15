@@ -124,9 +124,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC256D6Y2778",
     name: "Muhammad Hafidz",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "kurang dari 10 kak",
+    web: "Gemini, Github",
+    friend: "Sudah jelas kopi, Ciki, dan Playlist lagu favorit",
   },
   {
     id: "CFCC009D6Y1879",

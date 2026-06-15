@@ -9,6 +9,7 @@ import TimeCapsule from "@/pages/time-capsule"
 import FunFact from "@/pages/fun-fact"
 import FinalMessage from "@/pages/final-message"
 import Contributors from "@/pages/contributors"
+import ContributorDetail from "@/pages/contributor-detail"
 
 export const router = createBrowserRouter([
   {
@@ -21,6 +22,10 @@ export const router = createBrowserRouter([
       {
         path: "/contributors",
         element: <Contributors />,
+      },
+      {
+        path: "/contributors/:id",
+        element: <ContributorDetail />,
       },
       {
         path: "/journey",

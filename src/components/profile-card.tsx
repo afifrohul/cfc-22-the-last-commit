@@ -1,6 +1,7 @@
 import { FaGithubSquare, FaGlobe, FaLinkedin } from "react-icons/fa"
 import { LuSquareArrowOutUpRight } from "react-icons/lu"
 import { faker } from "@faker-js/faker"
+import { Link } from "react-router-dom"
 
 type Data = {
   id: string
@@ -69,15 +70,16 @@ export default function ProfileCard({ data }: Datadata) {
             </a>
           )}
         </div>
-        <div className="flex gap-2">
-          <a
-            href={`/contributors/${data.id}`}
-            target="_blank"
-            className="text-muted-foreground transition-all duration-200 hover:text-primary"
-          >
-            <LuSquareArrowOutUpRight className="h-6 w-6 lg:h-4 lg:w-4" />
-          </a>
-        </div>
+        {data.id !== "FACIL-CFC-22" ? (
+          <div className="flex gap-2">
+            <Link
+              to={`/contributors/${data.id}`}
+              className="text-muted-foreground transition-all duration-200 hover:text-primary"
+            >
+              <LuSquareArrowOutUpRight className="h-6 w-6 lg:h-4 lg:w-4" />
+            </Link>
+          </div>
+        ) : null}
       </div>
     </div>
   )

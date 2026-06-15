@@ -6,10 +6,12 @@ import { ModeToggleKey } from "@/components/mode-toogle-key"
 import Header from "@/components/header"
 import { Separator } from "@/components/ui/separator"
 import { motion } from "motion/react"
+import ScrollToTop from "@/components/scroll-to-top"
 
 export function AppLayout() {
   return (
     <div className="grid min-h-screen lg:grid-cols-[540px_1fr]">
+      <ScrollToTop />
       <ModeToggleKey />
       <DesktopNavigation />
 

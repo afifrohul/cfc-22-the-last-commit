@@ -2,8 +2,8 @@ import { facil, cohorts } from "@/lib/data/member-data"
 import ProfileCard from "@/components/profile-card"
 import TypingHeadline from "@/components/typing-headline"
 import { usePageTitle } from "@/hooks/use-page-title"
-import { Card, CardContent } from "@/components/ui/card"
-import { Building2, GraduationCap, Users, UserStar } from "lucide-react"
+import { Building2, GraduationCap, User, Users } from "lucide-react"
+import StatsInfoCard from "@/components/stats-info-card"
 
 export default function Contributors() {
   usePageTitle("Contributors")
@@ -30,52 +30,26 @@ export default function Contributors() {
           </p>
         </div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
-          <Card size="sm">
-            <CardContent>
-              <div className="flex items-center gap-4">
-                <UserStar className="text-rose-500" />
-                <div>
-                  <p className="text-base">{facil.length}</p>
-                  <p className="text-xs text-muted-foreground">Fasilitator</p>
-                </div>
-              </div>
-            </CardContent>
-          </Card>
-          <Card size="sm">
-            <CardContent>
-              <div className="flex items-center gap-4">
-                <Users className="text-rose-500" />
-                <div>
-                  <p className="text-base">{cohorts.length}</p>
-                  <p className="text-xs text-muted-foreground">Mahasiswa</p>
-                </div>
-              </div>
-            </CardContent>
-          </Card>
-          <Card size="sm">
-            <CardContent>
-              <div className="flex items-center gap-4">
-                <Building2 className="text-rose-500" />
-                <div>
-                  <p className="text-base">{uniqueUniv.size}</p>
-                  <p className="text-xs text-muted-foreground">
-                    Perguruan Tinggi
-                  </p>
-                </div>
-              </div>
-            </CardContent>
-          </Card>
-          <Card size="sm">
-            <CardContent>
-              <div className="flex items-center gap-4">
-                <GraduationCap className="text-rose-500" />
-                <div>
-                  <p className="text-base">{uniqueMajor.size}</p>
-                  <p className="text-xs text-muted-foreground">Program Studi</p>
-                </div>
-              </div>
-            </CardContent>
-          </Card>
+          <StatsInfoCard
+            icon={<User className="text-rose-500" />}
+            stats={facil.length}
+            label="Fasilitator"
+          />
+          <StatsInfoCard
+            icon={<Users className="text-rose-500" />}
+            stats={cohorts.length}
+            label="Mahasiswa"
+          />
+          <StatsInfoCard
+            icon={<Building2 className="text-rose-500" />}
+            stats={uniqueUniv.size}
+            label="Perguruan Tinggi"
+          />
+          <StatsInfoCard
+            icon={<GraduationCap className="text-rose-500" />}
+            stats={uniqueMajor.size}
+            label="Program Studi"
+          />
         </div>
       </div>
       <div className="mt-4 space-y-4">

@@ -8,21 +8,29 @@ type Segment = {
   className?: string
 }
 
-export default function TypingHeadline({ segments }: { segments: Segment[] }) {
+type TypingHeadlineProps = {
+  segments: Segment[]
+  cacheKey: string
+}
+
+export default function TypingHeadline({
+  segments,
+  cacheKey,
+}: TypingHeadlineProps) {
   const fullText = segments.map((s) => s.text).join("")
   const [length, setLength] = useState(() => {
-    return animationCache.homeVisited ? fullText.length : 0
+    return animationCache[cacheKey] ? fullText.length : 0
   })
 
   useEffect(() => {
-    if (animationCache.homeVisited) {
+    if (animationCache[cacheKey]) {
       return
     }
 
     const interval = setInterval(() => {
       setLength((prev) => {
         if (prev >= fullText.length) {
-          animationCache.homeVisited = true
+          animationCache[cacheKey] = true
 
           clearInterval(interval)
           return prev
@@ -33,12 +41,12 @@ export default function TypingHeadline({ segments }: { segments: Segment[] }) {
     }, 50)
 
     return () => clearInterval(interval)
-  }, [fullText])
+  }, [cacheKey, fullText])
 
   let currentLength = 0
 
   return (
-    <h1 className="text-xl md:text-4xl font-black">
+    <h1 className="text-xl font-black md:text-4xl">
       {segments.map((segment, index) => {
         const start = currentLength
         const end = currentLength + segment.text.length

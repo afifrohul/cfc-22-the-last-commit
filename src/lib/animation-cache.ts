@@ -1,3 +1,1 @@
-export const animationCache = {
-  homeVisited: false,
-}
+export const animationCache: Record<string, boolean> = {}

@@ -6,7 +6,7 @@ type Data = {
   content: string
 }
 
-interface MasonryContentListInterface {
+interface MasonryContentListProps {
   headline: ReactElement
   data: Data[]
 }
@@ -14,7 +14,7 @@ interface MasonryContentListInterface {
 export default function MasonryContentList({
   headline,
   data,
-}: MasonryContentListInterface) {
+}: MasonryContentListProps) {
   return (
     <div className="mt-4">
       {headline}

@@ -7,6 +7,7 @@ export default function Contributors() {
     <div className="flex flex-1 flex-col items-center justify-center p-4 md:p-10">
       <div className="">
         <TypingHeadline
+          cacheKey="contributors"
           segments={[
             { text: "The Contributors Behind " },
             { text: "The Repository", className: "text-rose-500" },
@@ -14,10 +15,10 @@ export default function Contributors() {
         />
         <div className="mt-4 space-y-4 lg:mt-8">
           <p>
-            Di balik setiap commit, ada seseorang dengan kisahnya
-            masing-masing. Ini adalah kumpulan kisah orang-orang yang menjalani
-            perjalanan yang sama, menghadapi tantangan yang sama, dan tumbuh
-            bersama selama Coding Camp 2026.
+            Di balik setiap commit, ada seseorang dengan kisahnya masing-masing.
+            Ini adalah kumpulan kisah orang-orang yang menjalani perjalanan yang
+            sama, menghadapi tantangan yang sama, dan tumbuh bersama selama
+            Coding Camp 2026.
           </p>
         </div>
       </div>

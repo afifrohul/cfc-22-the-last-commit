@@ -6,7 +6,7 @@ type Data = {
   content: string
 }
 
-interface TabsContentListInterface {
+interface TabsContentListProps {
   headline: ReactElement
   data: Data[]
 }
@@ -14,7 +14,7 @@ interface TabsContentListInterface {
 export default function TabsContentList({
   headline,
   data,
-}: TabsContentListInterface) {
+}: TabsContentListProps) {
   return (
     <div className="mt-4">
       {headline}

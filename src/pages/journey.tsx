@@ -21,6 +21,7 @@ export default function Journey() {
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:p-10">
         <TypingHeadline
+          cacheKey="journey"
           segments={[
             { text: "The Journey " },
             { text: "We Shared", className: "text-rose-500" },

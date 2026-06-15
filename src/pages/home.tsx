@@ -6,6 +6,7 @@ export default function Home() {
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:px-10 md:pb-10">
         <TypingHeadline
+          cacheKey="home"
           segments={[
             { text: "TheLastCommit — " },
             { text: "Before We Go", className: "text-rose-500" },

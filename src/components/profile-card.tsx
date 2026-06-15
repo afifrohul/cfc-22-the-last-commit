@@ -13,11 +13,11 @@ type Data = {
   motto: string
 }
 
-interface Datadata {
+interface DataProps {
   data: Data
 }
 
-export default function ProfileCard({ data }: Datadata) {
+export default function ProfileCard({ data }: DataProps) {
   function truncateString(str: string, maxLength: number) {
     return str.length > maxLength ? str.slice(0, maxLength) + "..." : str
   }

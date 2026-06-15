@@ -33,13 +33,12 @@ export default function ContributorDetail() {
 
   const secondSegment = words.length === 1 ? "" : (words.at(-1) ?? "")
 
-  console.log(contributor)
-
   return (
     <div className="flex flex-1 flex-col justify-center p-4 md:p-10">
       <div className="">
         <p className="text-sm text-muted-foreground">{contributor.id}</p>
         <TypingHeadline
+          cacheKey={`contributor-${id}`}
           segments={[
             { text: firstSegment },
             ...(secondSegment

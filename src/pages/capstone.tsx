@@ -18,6 +18,7 @@ export default function Capstone() {
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:p-10">
         <TypingHeadline
+          cacheKey="capstone"
           segments={[
             { text: "The Stories Behind " },
             { text: "The Projects", className: "text-rose-500" },

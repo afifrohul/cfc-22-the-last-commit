@@ -10,6 +10,7 @@ import FunFact from "@/pages/fun-fact"
 import FinalMessage from "@/pages/final-message"
 import Contributors from "@/pages/contributors"
 import ContributorDetail from "@/pages/contributor-detail"
+import NotFound from "@/pages/not-found"
 
 export const router = createBrowserRouter([
   {
@@ -46,6 +47,10 @@ export const router = createBrowserRouter([
       {
         path: "/final-message",
         element: <FinalMessage />,
+      },
+      {
+        path: "*",
+        element: <NotFound />,
       },
     ],
   },

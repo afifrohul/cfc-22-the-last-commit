@@ -2,6 +2,7 @@ import TypingHeadline from "@/components/typing-headline"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import TabsContentList from "@/components/tabs-content-list"
 import { timeCapsule } from "@/lib/data/time-capsule-data"
+import { usePageTitle } from "@/hooks/use-page-title"
 
 const message = timeCapsule.map((item) => {
   return { name: item.name, content: item.message }
@@ -14,6 +15,7 @@ const promise = timeCapsule.map((item) => {
 })
 
 export default function TimeCapsule() {
+  usePageTitle("Time Capsule")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:p-10">

@@ -1,6 +1,7 @@
 import TabsContentList from "@/components/tabs-content-list"
 import TypingHeadline from "@/components/typing-headline"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { usePageTitle } from "@/hooks/use-page-title"
 import { capstone } from "@/lib/data/capstone-data"
 
 const opinion = capstone.map((item) => {
@@ -14,6 +15,7 @@ const proud = capstone.map((item) => {
 })
 
 export default function Capstone() {
+  usePageTitle("Capstone")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:p-10">

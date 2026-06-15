@@ -1,7 +1,9 @@
 import CohortMarquee from "@/components/cohort-marquee"
 import TypingHeadline from "@/components/typing-headline"
+import { usePageTitle } from "@/hooks/use-page-title"
 
 export default function Home() {
+  usePageTitle("CFC-22")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:px-10 md:pb-10">

@@ -1,6 +1,7 @@
 import TabsContentList from "@/components/tabs-content-list"
 import TypingHeadline from "@/components/typing-headline"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { usePageTitle } from "@/hooks/use-page-title"
 import { journeys } from "@/lib/data/journey-data"
 
 const expectation = journeys.map((item) => {
@@ -17,6 +18,7 @@ const changes = journeys.map((item) => {
 })
 
 export default function Journey() {
+  usePageTitle("Journey")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:p-10">

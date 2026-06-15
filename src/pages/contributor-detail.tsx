@@ -8,6 +8,7 @@ import { funFact } from "@/lib/data/fun-fact-data"
 import { mergeById } from "@/lib/merge-by-id"
 import { Building2, GraduationCap } from "lucide-react"
 import { FaGithubSquare, FaGlobe, FaLinkedin } from "react-icons/fa"
+import { usePageTitle } from "@/hooks/use-page-title"
 
 export default function ContributorDetail() {
   const { id } = useParams()
@@ -21,6 +22,8 @@ export default function ContributorDetail() {
   )
 
   const contributor = contributors.find((item) => item.id === id)
+
+  usePageTitle(contributor?.name ?? "Cohort")
 
   if (!contributor) {
     return null

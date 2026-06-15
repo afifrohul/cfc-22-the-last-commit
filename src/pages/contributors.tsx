@@ -1,8 +1,10 @@
 import { facil, cohorts } from "@/lib/data/member-data"
 import ProfileCard from "@/components/profile-card"
 import TypingHeadline from "@/components/typing-headline"
+import { usePageTitle } from "@/hooks/use-page-title"
 
 export default function Contributors() {
+  usePageTitle("Contributors")
   return (
     <div className="flex flex-1 flex-col items-center justify-center p-4 md:p-10">
       <div className="">

@@ -2,6 +2,7 @@ import TypingHeadline from "@/components/typing-headline"
 import { funFact } from "@/lib/data/fun-fact-data"
 import MasonryContentList from "@/components/masonry-content-list"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { usePageTitle } from "@/hooks/use-page-title"
 
 const tab = funFact.map((item) => {
   return { name: item.name, content: item.tab }
@@ -14,6 +15,7 @@ const friend = funFact.map((item) => {
 })
 
 export default function FunFact() {
+  usePageTitle("Fun Fact")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
       <div className="px-4 pb-4 md:p-10">

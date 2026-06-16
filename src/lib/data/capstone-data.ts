@@ -41,9 +41,9 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC358D6X1820",
     name: "Delilla Anandita",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "sangat bikin stressss karena ditekan advisor apalagi aku fs. tapi ketemu temen2 dr ai dan ds yg pengertian banget, aku jadi bersyukur hingga akhirnya projeknya selesaiii dan mereka bangga sm hasil kerja fs.",
+    learning: "bahwa kita harus menyelesaikan sesuatu meskipun sulit wkwkwk ",
+    proud: "aku bisa bikin frontend sendiri dan mendeploynya (meskipun bantuan ai wkwk) tapi setidaknya aku udh dapet experience ",
   },
   {
     id: "CFCC244D6Y2846",
@@ -62,9 +62,9 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC220D6X0429",
     name: "Fadhilah Nurhidayah",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "seruu tapi cape, yang sebelumnya buat web tanpa model, disini bisa belajar dari teman learning path AI, connect ke sistemnya, dan agak berat fullstack sendiri",
+    learning: 'Pelajaran terbesarnya itu komunikasi tim, karena tim sering ilang"an bahkan kadang tidak ada respon, disini juga belajar buat ga nyerah dan sabar, dari sisi teknisnya bisa belajar apa yang dipelajari learnpath yg lain jadi tau begini data science dan ai engineer',
+    proud: "bangga bgt dengan aplikasi mindease yang dibuat, meskipun banyak yg afk dan sempet stuck, banyak error, dan dikejar waktu. Karena dari awal mencari ide, data sampai aplikasi jadi sesuai target ternyata hasilnya bagus dan memuaskan",
   },
   {
     id: "CFCC528D6X0049",
@@ -96,9 +96,9 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC183D6Y2331",
     name: "Marselino Adneldo Da Costa",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "Bagus, disuruh membuat inovasi yang belum pernah ada",
+    learning: "Pentingnya komunikasi dan pengelolaan ego",
+    proud: "Aku bisa banyak berkontribusi",
   },
   {
     id: "CFCC525D6Y0130",
@@ -129,9 +129,9 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC308D6Y0365",
     name: "Muhammad Arif Syafitra",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "sangat bagus, karena melibatkan role data scientist dan ai engineer dalam mengembangkan website",
+    learning: "saya jadi tahu cara bekerja dalam tim",
+    proud: "walau banyak rintangan project tetap terselesaikan dengan baik",
   },
   {
     id: "CFCC256D6Y2778",

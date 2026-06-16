@@ -39,9 +39,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC358D6X1820",
     name: "Delilla Anandita",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "gk ngitung, tapi lebih dr 25",
+    web: "DEEPSEEK ALWAYS, lalu chat gpt karena gptku plenger, lalu github, figma",
+    friend: "playlist kicau mania dan temen2nya, nescaffe, kucingku bernama mimin yg setia jalan2 diatas keyboardku, lalu cowokku, temenku yg fs juga krn sering vc, udah si ",
   },
   {
     id: "CFCC244D6Y2846",
@@ -60,9 +60,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC220D6X0429",
     name: "Fadhilah Nurhidayah",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: 'paling banyak kayanya 10 deh karena ga nyaman liat banyak"',
+    web: "Github, Youtube, Gemini, Dicoding",
+    friend: "matchaa, butterscotch, dimsum mentai, as always",
   },
   {
     id: "CFCC528D6X0049",
@@ -88,9 +88,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC183D6Y2331",
     name: "Marselino Adneldo Da Costa",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "15+",
+    web: "ChatGPT dan Github",
+    friend: "Lagu",
   },
   {
     id: "CFCC525D6Y0130",
@@ -117,9 +117,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC308D6Y0365",
     name: "Muhammad Arif Syafitra",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "10",
+    web: "vscode, claude, spotify",
+    friend: "snack, korean song",
   },
   {
     id: "CFCC256D6Y2778",

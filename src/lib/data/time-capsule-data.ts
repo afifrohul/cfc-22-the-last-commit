@@ -40,9 +40,10 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC358D6X1820",
     name: "Delilla Anandita",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "hai aku. 5 taun lagi aku kerja apa ya? apakah beneran jadi mba2 kantoran? aku udah nikah belum ya?",
+    hope: "aku berharap menjadi oranybyg mahir dibidang yg aku perlajari saat ini, seperti fs, web desain, atau apapun itu",
+    promise: "aku bakal mengasah pengetahuan yg aku dapat",
   },
   {
     id: "CFCC244D6Y2846",
@@ -61,9 +62,11 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC220D6X0429",
     name: "Fadhilah Nurhidayah",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Halo diriku di masa depan! Pas kamu baca ini, semoga kamu udah jadi developer yang jauh lebih jago dari sekarang, jangan berhenti belajar dan Keep moving forward!",
+    hope: "Saya berharap sudah menjadi seorang profesional di bidang IT yang ahli, memiliki jenjang karier yang stabil, dan bisa memberikan dampak nyata lewat aplikasi atau sistem yang saya kembangkan",
+    promise:
+      "Saya berjanji untuk tidak mudah menyerah dan tidak berhenti belajar dan ngulik hal baru",
   },
   {
     id: "CFCC528D6X0049",
@@ -92,9 +95,9 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC183D6Y2331",
     name: "Marselino Adneldo Da Costa",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "Jangan pernah mau kalah oleh siapa pun dan apa pun",
+    hope: "Mendapat pekerjaan",
+    promise: "Jangan pernah berhenti maju",
   },
   {
     id: "CFCC525D6Y0130",
@@ -123,9 +126,9 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC308D6Y0365",
     name: "Muhammad Arif Syafitra",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "keep chasing your dreams",
+    hope: "keep chasing your dreams",
+    promise: "keep chasing your dreams",
   },
   {
     id: "CFCC256D6Y2778",

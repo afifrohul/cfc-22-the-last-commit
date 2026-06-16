@@ -47,10 +47,10 @@ export const journeys: Journey[] = [
   {
     id: "CFCC358D6X1820",
     name: "Delilla Anandita",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation: "ekspektasiku program ini bakal susah, lalu aku gak bisa lolos untuk kerjain penugasannya karena aku pemula di bidang fs. tapi aku yakin aja dan ga ekspek bisa sampe di titik inii. lalu kesan pertamaku program ini sangat tertata banget dan materinya yg mudah dipahami, meskipun di akhir2 susahhhhh",
+    challenge: "kemalasan membaca materi dan membagi waktu antara kuliah, organisasi, dan dicoding. apalagi kemarin waktu digempur capstone project, aku bisa kerjain 2 capstone dalam seminggu",
+    grateful: "aku bersyukur bisa ketemu temen2 capstoneku yg HEBAT, ketemu kak afif yg sangat menginspirasi dan perhatian, serta sabar mengingatkanku mengikuti sesi ilt maupun weekly consultation (parah si ini udah 3x replace jadwal). lalu mendapatkan pengalaman dan skill baru yg relate dgn perkuliahanku, jadi makin jago ngoding",
+    changes: "aku jadi semakin tau dunia perkodingan, lalu waktu luangku yg biasanya login ml jadi kugunakan mengerjakan eror submision",
   },
   {
     id: "CFCC244D6Y2846",
@@ -71,10 +71,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC220D6X0429",
     name: "Fadhilah Nurhidayah",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "awalnya mikir bakal kayak kelas biasa yang ngebosenin dan kaku banget juga bakal tertekan haha. Ekspektasinya pengen dapet ilmu baru, relasi baru, sama pengen tau gimana sih teman-teman it diberbagai kampus",
+    challenge:
+      "lebih ke internal seperti kurang konsisten, burnout, tergantung mood belajar dan ngerjain tiap modul, dan manajemen waktu karena aktif organisasi luar kampus dan juga internship yang kadang ngebuat lupa kalo ada jadwal",
+    grateful:
+      'alhamdulillah, dila bisa ketemu orang-orang keren kaya ka afif dan temen" cfc-22 walaupun sampai akhir ga sedeket itu, dapat mentor/fasil yang sabar, supportive dan helpful',
+    changes:
+      "lebih baik dalam manage waktu, dan pada project capstone jadi belajar sabar bgt bgt",
   },
   {
     id: "CFCC528D6X0049",
@@ -111,10 +115,10 @@ export const journeys: Journey[] = [
   {
     id: "CFCC183D6Y2331",
     name: "Marselino Adneldo Da Costa",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation: "Bisa meningkatkan skill",
+    challenge: "Management waktu antara Coding Camp dan di luar program Coding Camp",
+    grateful: "Aku bisa start belajar Coding yang biasa aku sulit mulai jika tidak ada tekanan",
+    changes: "Peningkatan skill",
   },
   {
     id: "CFCC525D6Y0130",
@@ -150,10 +154,10 @@ export const journeys: Journey[] = [
   {
     id: "CFCC308D6Y0365",
     name: "Muhammad Arif Syafitra",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation: "Saya berekspektasi program ini dapat meningkatkan kemampuan saya dalam mengembangkan website, baik secara frontend maupun backend",
+    challenge: "Saya juga mengikuti kuliah reguler dari kampus",
+    grateful: "Saya senang ekspektasi saya terpenuhi",
+    changes: "Dapat mengembangkan backend dan frontend pada website dengan baik",
   },
   {
     id: "CFCC256D6Y2778",

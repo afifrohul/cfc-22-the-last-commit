@@ -18,7 +18,7 @@ export default function Contributors() {
           cacheKey="contributors"
           segments={[
             { text: "The Contributors Behind " },
-            { text: "The Repository", className: "text-rose-500" },
+            { text: "The Repository", className: "text-highlight" },
           ]}
         />
         <div className="mt-4 space-y-4 lg:mt-8">
@@ -31,22 +31,22 @@ export default function Contributors() {
         </div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatsInfoCard
-            icon={<User className="text-rose-500" />}
+            icon={<User className="text-highlight" />}
             stats={facil.length}
             label="Fasilitator"
           />
           <StatsInfoCard
-            icon={<Users className="text-rose-500" />}
+            icon={<Users className="text-highlight" />}
             stats={cohorts.length}
             label="Mahasiswa"
           />
           <StatsInfoCard
-            icon={<Building2 className="text-rose-500" />}
+            icon={<Building2 className="text-highlight" />}
             stats={uniqueUniv.size}
             label="Perguruan Tinggi"
           />
           <StatsInfoCard
-            icon={<GraduationCap className="text-rose-500" />}
+            icon={<GraduationCap className="text-highlight" />}
             stats={uniqueMajor.size}
             label="Program Studi"
           />
@@ -55,7 +55,7 @@ export default function Contributors() {
       <div className="mt-4 space-y-4">
         <div className="">
           <div className="flex w-full items-center gap-4">
-            <p className="font-semibold text-rose-500 italic">Facilitator</p>
+            <p className="font-semibold text-highlight italic">Facilitator</p>
             <div className="h-px w-full rounded border-b" />
           </div>
           <div className="mt-2 grid gap-3 md:grid-cols-2 lg:grid-cols-4">
@@ -66,7 +66,7 @@ export default function Contributors() {
         </div>
         <div className="">
           <div className="flex w-full items-center gap-4">
-            <p className="font-semibold text-rose-500 italic">Cohorts</p>
+            <p className="font-semibold text-highlight italic">Cohorts</p>
             <div className="h-px w-full rounded border-b" />
           </div>
           <div className="mt-2 grid gap-3 md:grid-cols-2 lg:grid-cols-4">

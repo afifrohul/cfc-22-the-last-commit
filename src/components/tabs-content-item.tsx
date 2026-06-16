@@ -10,7 +10,7 @@ export default function TabsContentItem({
   return (
     <div className="grid md:grid-cols-3">
       <div>
-        <p className="text-base font-medium text-rose-500">{name}</p>
+        <p className="text-base font-medium text-highlight">{name}</p>
       </div>
       <div className="md:col-span-2">
         <p className="text-sm">

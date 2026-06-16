@@ -11,7 +11,7 @@ export default function Home() {
           cacheKey="home"
           segments={[
             { text: "TheLastCommit — " },
-            { text: "Before We Go", className: "text-rose-500" },
+            { text: "Before We Go", className: "text-highlight" },
           ]}
         />
         <div className="mt-8 space-y-4">

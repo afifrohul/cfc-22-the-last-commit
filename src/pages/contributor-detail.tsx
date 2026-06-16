@@ -48,7 +48,7 @@ export default function ContributorDetail() {
               ? [
                   {
                     text: ` ${secondSegment}`,
-                    className: "text-rose-500",
+                    className: "text-highlight",
                   },
                 ]
               : []),
@@ -64,11 +64,11 @@ export default function ContributorDetail() {
             />
             <div className="flex flex-col gap-2">
               <div className="flex items-center gap-2 text-sm">
-                <Building2 className="text-rose-500" />
+                <Building2 className="text-highlight" />
                 <p>{contributor.univ}</p>
               </div>
               <div className="flex items-center gap-2 text-sm">
-                <GraduationCap className="text-rose-500" />
+                <GraduationCap className="text-highlight" />
                 <p>{contributor.major}</p>
               </div>
               <blockquote className="mt-2 border-l-2 pl-3 text-sm italic">
@@ -115,7 +115,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Sebelum bergabung Coding Camp, apa{" "}
-                  <span className="text-rose-500 underline">
+                  <span className="text-highlight underline">
                     ekspektasi atau kesan pertamamu
                   </span>{" "}
                   terhadap program ini?
@@ -125,7 +125,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Apa{" "}
-                  <span className="text-rose-500 underline">
+                  <span className="text-highlight underline">
                     tantangan terbesar
                   </span>{" "}
                   yang kamu hadapi selama mengikuti Coding Camp?
@@ -135,15 +135,15 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Hal apa yang paling kamu{" "}
-                  <span className="text-rose-500 underline"> syukuri</span> dari
-                  perjalanan ini?
+                  <span className="text-highlight underline"> syukuri</span>{" "}
+                  dari perjalanan ini?
                 </p>
                 <p className="text-sm">{contributor.grateful}</p>
               </div>
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Apa{" "}
-                  <span className="text-rose-500 underline">
+                  <span className="text-highlight underline">
                     perubahan terbesar
                   </span>{" "}
                   pada dirimu setelah mengikuti program ini?
@@ -164,7 +164,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Bagaimana{" "}
-                  <span className="text-rose-500 underline">pendapatmu</span>{" "}
+                  <span className="text-highlight underline">pendapatmu</span>{" "}
                   mengenai capstone project pada program coding camp ini?
                 </p>
                 <p className="text-sm">{contributor.opinion}</p>
@@ -172,7 +172,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Apa{" "}
-                  <span className="text-rose-500 underline">
+                  <span className="text-highlight underline">
                     pelajaran terbesar
                   </span>{" "}
                   yang kamu dapatkan selama mengerjakan capstone project?
@@ -182,7 +182,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Hal apa yang paling{" "}
-                  <span className="text-rose-500 underline">
+                  <span className="text-highlight underline">
                     membuatmu bangga
                   </span>{" "}
                   dari capstone project kalian?
@@ -202,7 +202,7 @@ export default function ContributorDetail() {
             <div className="flex flex-col gap-6">
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
-                  Tulis <span className="text-rose-500 underline">pesan</span>{" "}
+                  Tulis <span className="text-highlight underline">pesan</span>{" "}
                   untuk dirimu sendiri yang akan membaca ini 5 tahun dari
                   sekarang.
                 </p>
@@ -211,14 +211,14 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Dalam 5 tahun ke depan, kamu{" "}
-                  <span className="text-rose-500 underline">berharap</span>{" "}
+                  <span className="text-highlight underline">berharap</span>{" "}
                   sedang berada di posisi seperti apa?
                 </p>
                 <p className="text-sm">{contributor.hope}</p>
               </div>
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
-                  Satu <span className="text-rose-500 underline">janji</span>{" "}
+                  Satu <span className="text-highlight underline">janji</span>{" "}
                   yang ingin kamu buat untuk dirimu sendiri setelah Coding Camp
                   berakhir.
                 </p>
@@ -238,7 +238,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Berapa{" "}
-                  <span className="text-rose-500 underline">
+                  <span className="text-highlight underline">
                     tab browser terbanyak
                   </span>{" "}
                   yang pernah terbuka saat mengerjakan capstone?
@@ -247,7 +247,7 @@ export default function ContributorDetail() {
               </div>
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
-                  <span className="text-rose-500 underline">Website</span> yang
+                  <span className="text-highlight underline">Website</span> yang
                   paling sering kamu buka selama Coding Camp?
                 </p>
                 <p className="text-sm">{contributor.web}</p>
@@ -255,7 +255,7 @@ export default function ContributorDetail() {
               <div className="flex flex-col gap-2">
                 <p className="font-serif text-lg font-medium italic">
                   Apa yang selalu{" "}
-                  <span className="text-rose-500 underline">menemanimu</span>{" "}
+                  <span className="text-highlight underline">menemanimu</span>{" "}
                   saat belajar atau mengerjakan capstone?
                 </p>
                 <p className="text-sm">{contributor.friend}</p>

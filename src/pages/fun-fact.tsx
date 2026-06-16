@@ -23,7 +23,7 @@ export default function FunFact() {
           cacheKey="funFact"
           segments={[
             { text: "The Little Things " },
-            { text: "We'll Remember", className: "text-rose-500" },
+            { text: "We'll Remember", className: "text-highlight" },
           ]}
         />
         <div className="mt-8 space-y-4">
@@ -45,7 +45,7 @@ export default function FunFact() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Berapa{" "}
-                    <span className="text-rose-500 underline">
+                    <span className="text-highlight underline">
                       tab browser terbanyak
                     </span>{" "}
                     yang pernah terbuka saat mengerjakan capstone?
@@ -58,7 +58,7 @@ export default function FunFact() {
               <MasonryContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    <span className="text-rose-500 underline">Website</span>{" "}
+                    <span className="text-highlight underline">Website</span>{" "}
                     yang paling sering kamu buka selama Coding Camp?
                   </p>
                 }
@@ -70,7 +70,7 @@ export default function FunFact() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa yang selalu{" "}
-                    <span className="text-rose-500 underline">menemanimu</span>{" "}
+                    <span className="text-highlight underline">menemanimu</span>{" "}
                     saat belajar atau mengerjakan capstone?
                   </p>
                 }

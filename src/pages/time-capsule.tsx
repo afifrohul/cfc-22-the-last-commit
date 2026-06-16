@@ -23,7 +23,7 @@ export default function TimeCapsule() {
           cacheKey="timeCapsule"
           segments={[
             { text: "A Message For  " },
-            { text: "The Future", className: "text-rose-500" },
+            { text: "The Future", className: "text-highlight" },
           ]}
         />
         <div className="mt-8 space-y-4">
@@ -44,7 +44,8 @@ export default function TimeCapsule() {
               <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    Tulis <span className="text-rose-500 underline">pesan</span>{" "}
+                    Tulis{" "}
+                    <span className="text-highlight underline">pesan</span>{" "}
                     untuk dirimu sendiri yang akan membaca ini 5 tahun dari
                     sekarang.
                   </p>
@@ -57,7 +58,7 @@ export default function TimeCapsule() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Dalam 5 tahun ke depan, kamu{" "}
-                    <span className="text-rose-500 underline">berharap</span>{" "}
+                    <span className="text-highlight underline">berharap</span>{" "}
                     sedang berada di posisi seperti apa?
                   </p>
                 }
@@ -68,7 +69,7 @@ export default function TimeCapsule() {
               <TabsContentList
                 headline={
                   <p className="font-serif text-lg font-medium italic">
-                    Satu <span className="text-rose-500 underline">janji</span>{" "}
+                    Satu <span className="text-highlight underline">janji</span>{" "}
                     yang ingin kamu buat untuk dirimu sendiri setelah Coding
                     Camp berakhir.
                   </p>

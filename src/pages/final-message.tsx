@@ -10,7 +10,7 @@ export default function FinalMessage() {
           cacheKey="FinalMessage"
           segments={[
             { text: "Before  " },
-            { text: "We Go", className: "text-rose-500" },
+            { text: "We Go", className: "text-highlight" },
           ]}
         />
         <div className="mt-8 space-y-4">
@@ -88,7 +88,7 @@ export default function FinalMessage() {
             memastikan kalian berada di jalur yang benar. Tidak selalu akan ada
             fasilitator yang siap membantu ketika kalian mengalami kesulitan.
           </p>
-          <p className="font-bold text-rose-500">
+          <p className="font-bold text-highlight">
             Karena itu, pesan terakhirku adalah: belajarlah untuk bergantung
             kepada diri kalian sendiri terlebih dahulu.
           </p>

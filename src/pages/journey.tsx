@@ -26,7 +26,7 @@ export default function Journey() {
           cacheKey="journey"
           segments={[
             { text: "The Journey " },
-            { text: "We Shared", className: "text-rose-500" },
+            { text: "We Shared", className: "text-highlight" },
           ]}
         />
         <div className="mt-8 space-y-4">
@@ -50,7 +50,7 @@ export default function Journey() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Sebelum bergabung Coding Camp, apa{" "}
-                    <span className="text-rose-500 underline">
+                    <span className="text-highlight underline">
                       ekspektasi atau kesan pertamamu
                     </span>{" "}
                     terhadap program ini?
@@ -64,7 +64,7 @@ export default function Journey() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa{" "}
-                    <span className="text-rose-500 underline">
+                    <span className="text-highlight underline">
                       tantangan terbesar
                     </span>{" "}
                     yang kamu hadapi selama mengikuti Coding Camp?
@@ -78,7 +78,7 @@ export default function Journey() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Hal apa yang paling kamu{" "}
-                    <span className="text-rose-500 underline"> syukuri</span>{" "}
+                    <span className="text-highlight underline"> syukuri</span>{" "}
                     dari perjalanan ini?
                   </p>
                 }
@@ -90,7 +90,7 @@ export default function Journey() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa{" "}
-                    <span className="text-rose-500 underline">
+                    <span className="text-highlight underline">
                       perubahan terbesar
                     </span>{" "}
                     pada dirimu setelah mengikuti program ini?

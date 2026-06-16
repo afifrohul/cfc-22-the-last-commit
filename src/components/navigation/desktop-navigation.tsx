@@ -40,14 +40,16 @@ export function DesktopNavigation() {
                     className={clsx(
                       "relative block flex w-fit items-center gap-4 text-5xl font-black tracking-tight transition-colors duration-300",
                       "after:absolute after:-bottom-2 after:left-0 after:h-0.75 after:w-full",
-                      "after:origin-left after:scale-x-0 after:bg-rose-600",
+                      "after:origin-left after:scale-x-0 after:bg-highlight",
                       "after:transition-transform after:duration-300",
                       "hover:after:scale-x-100",
                       !isActive && "text-muted-foreground hover:text-foreground"
                     )}
                   >
                     <div>{item.title}</div>
-                    {isActive && <div className="h-3 w-3 bg-rose-500 animate-spin" />}
+                    {isActive && (
+                      <div className="h-3 w-3 animate-spin bg-highlight" />
+                    )}
                   </div>
                 )}
               </NavLink>

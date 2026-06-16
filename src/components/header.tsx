@@ -6,8 +6,8 @@ export default function Header() {
         <div className="bg-zinc-700 p-2">
           <img src="/tlc.svg" alt="logo" className="h-5 w-5" />
         </div>
-        <div className="text-sm md:text-base font-medium">
-          TheLastCommit — <span className="text-rose-500">Before We Go</span>
+        <div className="text-sm font-medium md:text-base">
+          TheLastCommit — <span className="text-highlight">Before We Go</span>
         </div>
       </div>
       <div className="flex items-center gap-2">

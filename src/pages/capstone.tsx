@@ -23,7 +23,7 @@ export default function Capstone() {
           cacheKey="capstone"
           segments={[
             { text: "The Stories Behind " },
-            { text: "The Projects", className: "text-rose-500" },
+            { text: "The Projects", className: "text-highlight" },
           ]}
         />
         <div className="mt-8 space-y-4">
@@ -46,7 +46,7 @@ export default function Capstone() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Bagaimana{" "}
-                    <span className="text-rose-500 underline">pendapatmu</span>{" "}
+                    <span className="text-highlight underline">pendapatmu</span>{" "}
                     mengenai capstone project pada program coding camp ini?
                   </p>
                 }
@@ -58,7 +58,7 @@ export default function Capstone() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Apa{" "}
-                    <span className="text-rose-500 underline">
+                    <span className="text-highlight underline">
                       pelajaran terbesar
                     </span>{" "}
                     yang kamu dapatkan selama mengerjakan capstone project?
@@ -72,7 +72,7 @@ export default function Capstone() {
                 headline={
                   <p className="font-serif text-lg font-medium italic">
                     Hal apa yang paling{" "}
-                    <span className="text-rose-500 underline">
+                    <span className="text-highlight underline">
                       membuatmu bangga
                     </span>{" "}
                     dari capstone project kalian?

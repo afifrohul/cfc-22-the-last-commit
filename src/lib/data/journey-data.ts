@@ -23,10 +23,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC726D6X0277",
     name: "Aulia Fitri Nur Azizah",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Kesan pertamanya aku merasa coding camp ini keren banget dan aku harus ikut program ini. Zuzur sempet insecure dan ovt karena yang daftar banyak banget. Sampe akhirnya ada di momen jantung jedag jedug nunggu pengumuman dan Alhamdulillah loloss seleksi dan bisa ikut di program coding camp iniii🫶",
+    challenge:
+      "Paling berasa waktu kenalan sama react dan node.js sihh, karena biasanya make laravel/ci4. Tapi, dari situ jadi banyak ilmu dan pengalaman yang aku dapet dari coding camp",
+    grateful:
+      "Hal yang disyukuri banyak bangettt, mulai dari ilmu dan pengalaman baru baik itu dari sisi technical atau soft skill, ketemu sama orang-orang keren kaya fasil, instruktur, mentor, dan temen-temen baru selama mengikuti program ini. Pokoknya seneng dan bersyukur bangett",
+    changes:
+      "Sekarang lebih percaya diri buat belajar stack baru karenaa udah bisa belajar caranya beradaptasi lewat program ini. Hal yang dulu bikin aku ragu karena belum pernah mencoba pake react dan node.js ternyata sekarang bikin aku nyaman buat pake react dan node.js lagi😭🫶",
   },
   {
     id: "CFCC694D6Y1628",
@@ -47,10 +51,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC358D6X1820",
     name: "Delilla Anandita",
-    expectation: "ekspektasiku program ini bakal susah, lalu aku gak bisa lolos untuk kerjain penugasannya karena aku pemula di bidang fs. tapi aku yakin aja dan ga ekspek bisa sampe di titik inii. lalu kesan pertamaku program ini sangat tertata banget dan materinya yg mudah dipahami, meskipun di akhir2 susahhhhh",
-    challenge: "kemalasan membaca materi dan membagi waktu antara kuliah, organisasi, dan dicoding. apalagi kemarin waktu digempur capstone project, aku bisa kerjain 2 capstone dalam seminggu",
-    grateful: "aku bersyukur bisa ketemu temen2 capstoneku yg HEBAT, ketemu kak afif yg sangat menginspirasi dan perhatian, serta sabar mengingatkanku mengikuti sesi ilt maupun weekly consultation (parah si ini udah 3x replace jadwal). lalu mendapatkan pengalaman dan skill baru yg relate dgn perkuliahanku, jadi makin jago ngoding",
-    changes: "aku jadi semakin tau dunia perkodingan, lalu waktu luangku yg biasanya login ml jadi kugunakan mengerjakan eror submision",
+    expectation:
+      "ekspektasiku program ini bakal susah, lalu aku gak bisa lolos untuk kerjain penugasannya karena aku pemula di bidang fs. tapi aku yakin aja dan ga ekspek bisa sampe di titik inii. lalu kesan pertamaku program ini sangat tertata banget dan materinya yg mudah dipahami, meskipun di akhir2 susahhhhh",
+    challenge:
+      "kemalasan membaca materi dan membagi waktu antara kuliah, organisasi, dan dicoding. apalagi kemarin waktu digempur capstone project, aku bisa kerjain 2 capstone dalam seminggu",
+    grateful:
+      "aku bersyukur bisa ketemu temen2 capstoneku yg HEBAT, ketemu kak afif yg sangat menginspirasi dan perhatian, serta sabar mengingatkanku mengikuti sesi ilt maupun weekly consultation (parah si ini udah 3x replace jadwal). lalu mendapatkan pengalaman dan skill baru yg relate dgn perkuliahanku, jadi makin jago ngoding",
+    changes:
+      "aku jadi semakin tau dunia perkodingan, lalu waktu luangku yg biasanya login ml jadi kugunakan mengerjakan eror submision",
   },
   {
     id: "CFCC244D6Y2846",
@@ -116,8 +124,10 @@ export const journeys: Journey[] = [
     id: "CFCC183D6Y2331",
     name: "Marselino Adneldo Da Costa",
     expectation: "Bisa meningkatkan skill",
-    challenge: "Management waktu antara Coding Camp dan di luar program Coding Camp",
-    grateful: "Aku bisa start belajar Coding yang biasa aku sulit mulai jika tidak ada tekanan",
+    challenge:
+      "Management waktu antara Coding Camp dan di luar program Coding Camp",
+    grateful:
+      "Aku bisa start belajar Coding yang biasa aku sulit mulai jika tidak ada tekanan",
     changes: "Peningkatan skill",
   },
   {
@@ -154,10 +164,12 @@ export const journeys: Journey[] = [
   {
     id: "CFCC308D6Y0365",
     name: "Muhammad Arif Syafitra",
-    expectation: "Saya berekspektasi program ini dapat meningkatkan kemampuan saya dalam mengembangkan website, baik secara frontend maupun backend",
+    expectation:
+      "Saya berekspektasi program ini dapat meningkatkan kemampuan saya dalam mengembangkan website, baik secara frontend maupun backend",
     challenge: "Saya juga mengikuti kuliah reguler dari kampus",
     grateful: "Saya senang ekspektasi saya terpenuhi",
-    changes: "Dapat mengembangkan backend dan frontend pada website dengan baik",
+    changes:
+      "Dapat mengembangkan backend dan frontend pada website dengan baik",
   },
   {
     id: "CFCC256D6Y2778",
@@ -182,10 +194,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC284D6X1467",
     name: "Nadia Erfina",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Awalnya aku berekspektasi kalau Coding Camp bakal jadi tempat belajar yang seru tapi juga cukup menantang. Jujur sempat mikir bakal susah ngikutinnya, tapi aku berharap bisa nambah skill dan punya pengalaman baru di dunia coding.",
+    challenge:
+      "Tantangan terbesar buatku adalah menjaga konsistensi belajar dan memahami beberapa materi yang cukup challenging. Kadang juga cukup susah membagi waktu dengan aktivitas lain, jadi harus benar-benar belajar ngatur waktu.",
+    grateful:
+      "Hal yang paling aku syukuri dari perjalanan ini adalah bisa ketemu fasilitator, instructor, dan teman-teman yang supportif banget. Mereka banyak membimbing, membantu waktu kesulitan, dan bikin proses belajar jadi lebih menyenangkan. Jujur itu salah satu hal yang bikin aku happy banget selama ikut program ini.",
+    changes:
+      "Perubahan terbesar yang aku rasakan adalah jadi lebih percaya diri untuk belajar hal baru dan mencoba menyelesaikan masalah sendiri. Selain itu, aku juga jadi lebih disiplin dan lebih yakin dengan kemampuan diri sendiri, terutama dalam belajar hal-hal teknis.",
   },
   {
     id: "CFCC573D6Y1062",

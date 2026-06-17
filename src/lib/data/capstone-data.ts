@@ -20,9 +20,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC726D6X0277",
     name: "Aulia Fitri Nur Azizah",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Capstone project salah satu hal yang hectic bagi akuu karena kejar kejaran sama deadline hehee, tapi capstone project juga seseru itu. Aku sama temen temen saling belajar satu sama lain karena kita dari learning path yang beda dan belajar integrasi yang baik supaya ga crash web nya. Aku juga dapet banyak temen baru dari tim capstone project inii",
+    learning:
+      "Pelajaran yang aku dapet dari capstone project adalah gimana caranya membangun sistem yang terintegrasi dengan baik. Terus, yang paling berkesan itu waktu memahami full cycle nya dan belajar berkolaborasi sama learning path ai dan ds",
+    proud:
+      "Ngga error😭😭😭 pas sesi presentasi dan peer review. Apalagi waktu sesudah di testing sama tim reviewer, seneng banget itu rasanya😭 (plong dan lega banget kaya pake fresh care). Aku sangat menghargai usahaku dan usaha temen-temen capstone ku yang udah berusaha dengan totalitas dan saling support satu sama lain yang bikin makin semangat buat ngerjain capstone project. Ibarat lagu, lagunya hindia ramai sepi bersama wkwkwk🔥",
   },
   {
     id: "CFCC694D6Y1628",
@@ -41,9 +44,11 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC358D6X1820",
     name: "Delilla Anandita",
-    opinion: "sangat bikin stressss karena ditekan advisor apalagi aku fs. tapi ketemu temen2 dr ai dan ds yg pengertian banget, aku jadi bersyukur hingga akhirnya projeknya selesaiii dan mereka bangga sm hasil kerja fs.",
+    opinion:
+      "sangat bikin stressss karena ditekan advisor apalagi aku fs. tapi ketemu temen2 dr ai dan ds yg pengertian banget, aku jadi bersyukur hingga akhirnya projeknya selesaiii dan mereka bangga sm hasil kerja fs.",
     learning: "bahwa kita harus menyelesaikan sesuatu meskipun sulit wkwkwk ",
-    proud: "aku bisa bikin frontend sendiri dan mendeploynya (meskipun bantuan ai wkwk) tapi setidaknya aku udh dapet experience ",
+    proud:
+      "aku bisa bikin frontend sendiri dan mendeploynya (meskipun bantuan ai wkwk) tapi setidaknya aku udh dapet experience ",
   },
   {
     id: "CFCC244D6Y2846",
@@ -62,9 +67,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC220D6X0429",
     name: "Fadhilah Nurhidayah",
-    opinion: "seruu tapi cape, yang sebelumnya buat web tanpa model, disini bisa belajar dari teman learning path AI, connect ke sistemnya, dan agak berat fullstack sendiri",
-    learning: 'Pelajaran terbesarnya itu komunikasi tim, karena tim sering ilang"an bahkan kadang tidak ada respon, disini juga belajar buat ga nyerah dan sabar, dari sisi teknisnya bisa belajar apa yang dipelajari learnpath yg lain jadi tau begini data science dan ai engineer',
-    proud: "bangga bgt dengan aplikasi mindease yang dibuat, meskipun banyak yg afk dan sempet stuck, banyak error, dan dikejar waktu. Karena dari awal mencari ide, data sampai aplikasi jadi sesuai target ternyata hasilnya bagus dan memuaskan",
+    opinion:
+      "seruu tapi cape, yang sebelumnya buat web tanpa model, disini bisa belajar dari teman learning path AI, connect ke sistemnya, dan agak berat fullstack sendiri",
+    learning:
+      'Pelajaran terbesarnya itu komunikasi tim, karena tim sering ilang"an bahkan kadang tidak ada respon, disini juga belajar buat ga nyerah dan sabar, dari sisi teknisnya bisa belajar apa yang dipelajari learnpath yg lain jadi tau begini data science dan ai engineer',
+    proud:
+      "bangga bgt dengan aplikasi mindease yang dibuat, meskipun banyak yg afk dan sempet stuck, banyak error, dan dikejar waktu. Karena dari awal mencari ide, data sampai aplikasi jadi sesuai target ternyata hasilnya bagus dan memuaskan",
   },
   {
     id: "CFCC528D6X0049",
@@ -129,7 +137,8 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC308D6Y0365",
     name: "Muhammad Arif Syafitra",
-    opinion: "sangat bagus, karena melibatkan role data scientist dan ai engineer dalam mengembangkan website",
+    opinion:
+      "sangat bagus, karena melibatkan role data scientist dan ai engineer dalam mengembangkan website",
     learning: "saya jadi tahu cara bekerja dalam tim",
     proud: "walau banyak rintangan project tetap terselesaikan dengan baik",
   },
@@ -152,9 +161,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC284D6X1467",
     name: "Nadia Erfina",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Menurutku capstone project jadi salah satu bagian yang paling seru sekaligus menantang selama coding camp. Karena lewat project ini, aku jadi bisa benar-benar nyobain ilmu yang sebelumnya dipelajari, nggak cuma teori aja. Walaupun prosesnya nggak selalu mudah, justru dari situ banyak belajar kerja sama tim, diskusi, sampai cari solusi bareng waktu ada kendala.",
+    learning:
+      "Pelajaran terbesar yang aku dapat adalah pentingnya komunikasi dan kerja sama dalam tim. Selain teknis, aku belajar kalau membangun project itu butuh saling support, terbuka sama masukan, dan sama-sama mencari solusi saat ada kendala.",
+    proud:
+      "Yang paling bikin aku bangga adalah tim kami bisa menyelesaikan project sampai akhir walaupun ada tantangan di prosesnya. Selain itu, aku bangga karena setiap anggota tim saling bantu dan berusaha memberikan yang terbaik, jadi hasil akhirnya terasa sangat meaningful buat kami.",
   },
   {
     id: "CFCC573D6Y1062",

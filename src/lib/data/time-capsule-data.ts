@@ -19,9 +19,11 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC726D6X0277",
     name: "Aulia Fitri Nur Azizah",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Hai aul 5 taun yang akan datang, semoga udah jadi full-stack web dev atau front end web dev AAMIIN. Semoga selalu excited untuk terus belajar. Mungkin 5 taun lagi teknologinya udah jauh lebih canggih jadi harus tetap belajar as a lifelong learner person. Keep trying, keep moving!",
+    hope: "Aku berharap sudah menjadi full-stack web dev atau frontend web dev yang bisa terus berkembang dan bekerja dengan stabil dan efisien",
+    promise:
+      "Janji untuk terus melakukan self development dan menerapkan segala ilmu yang saya ambil dari coding camp🫡 ",
   },
   {
     id: "CFCC694D6Y1628",
@@ -148,9 +150,11 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC284D6X1467",
     name: "Nadia Erfina",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Hai, semoga kamu membaca ini dalam keadaan bahagia dan bangga sama diri sendiri. Terima kasih karena sudah bertahan sejauh ini, melewati banyak hal yang mungkin dulu terasa berat. Semoga kamu tetap jadi pribadi yang mau terus belajar, nggak takut mencoba hal baru, dan tetap rendah hati. Kalau ternyata belum sampai di semua tujuan, nggak apa-apa, yang penting jangan berhenti melangkah.",
+    hope: "Dalam 5 tahun ke depan, aku berharap sudah berada di posisi yang lebih baik, baik secara karier maupun pengembangan diri. Semoga sudah bekerja di bidang yang aku suka, terus berkembang, punya lingkungan yang baik, dan bisa membanggakan diri sendiri serta orang-orang terdekat.",
+    promise:
+      "Janji untuk diriku sendiri adalah tetap konsisten belajar dan nggak berhenti berkembang walaupun program ini sudah selesai. Aku ingin tetap mencoba, tetap semangat, dan nggak gampang menyerah kalau menghadapi tantangan baru.",
   },
   {
     id: "CFCC573D6Y1062",

@@ -18,9 +18,10 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC726D6X0277",
     name: "Aulia Fitri Nur Azizah",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "Jujur tak terhitung kak, alias banyak banget ksksksksks apalagi waktu desain web dan cari referensi tampilan yang sesuai😭",
+    web: "Gemini number one wkwk, selain itu github, YT, chat gpt kadang, W3Schools😭",
+    friend:
+      "Discord wkwkw sama dengerin playlist hindia/kadang jedag jedug biar ngga ngantuk😭",
   },
   {
     id: "CFCC694D6Y1628",
@@ -41,7 +42,8 @@ export const funFact: FunFact[] = [
     name: "Delilla Anandita",
     tab: "gk ngitung, tapi lebih dr 25",
     web: "DEEPSEEK ALWAYS, lalu chat gpt karena gptku plenger, lalu github, figma",
-    friend: "playlist kicau mania dan temen2nya, nescaffe, kucingku bernama mimin yg setia jalan2 diatas keyboardku, lalu cowokku, temenku yg fs juga krn sering vc, udah si ",
+    friend:
+      "playlist kicau mania dan temen2nya, nescaffe, kucingku bernama mimin yg setia jalan2 diatas keyboardku, lalu cowokku, temenku yg fs juga krn sering vc, udah si ",
   },
   {
     id: "CFCC244D6Y2846",
@@ -138,9 +140,10 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC284D6X1467",
     name: "Nadia Erfina",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "Jujur paling sekitar 10-15 tab hehe, udah banyak banget buatku, biasanya isinya ChatGPT, GitHub, Dicoding, W3Schools, sama tab buat nyari solusi kalau error, sampai tab yang sebenarnya udah nggak kepakai tapi lupa ditutup (kaya membuka website editing dan website kampus hihi).",
+    web: "Paling sering buka GitHub, website Dicoding, chat gpt sama W3Schools. Itu udah kayak temen sehari-hari pas ngerjain tugas dan capstone hehe",
+    friend:
+      "Playlist lagu galau, entah kenapa kalau lagi denger lagu galau malah ngerasa otak tiba-tiba jadi lebih lancar, padahal sebenarnya ngga galau wkwk. Paling sering dengerin lagu-lagunya Kahitna sama NIKI, terus ditemani coklat biar mood tetep bagus dan lebih fokus.",
   },
   {
     id: "CFCC573D6Y1062",

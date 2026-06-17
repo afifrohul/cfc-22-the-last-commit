@@ -2,8 +2,11 @@ import { facil, cohorts } from "@/lib/data/member-data"
 import ProfileCard from "@/components/profile-card"
 import TypingHeadline from "@/components/typing-headline"
 import { usePageTitle } from "@/hooks/use-page-title"
-import { Building2, GraduationCap, User, Users } from "lucide-react"
 import StatsInfoCard from "@/components/stats-info-card"
+import { UserIcon } from "@/components/animate-icons/user"
+import { UsersIcon } from "@/components/animate-icons/users"
+import { GraduationCapIcon } from "@/components/animate-icons/graduation-cap"
+import { MapPinCheckInsideIcon } from "@/components/animate-icons/map-pin-check-inside"
 
 export default function Contributors() {
   usePageTitle("Contributors")
@@ -31,22 +34,22 @@ export default function Contributors() {
         </div>
         <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <StatsInfoCard
-            icon={<User className="text-highlight" />}
+            icon={<UserIcon className="text-highlight" />}
             stats={facil.length}
             label="Fasilitator"
           />
           <StatsInfoCard
-            icon={<Users className="text-highlight" />}
+            icon={<UsersIcon className="text-highlight" />}
             stats={cohorts.length}
             label="Mahasiswa"
           />
           <StatsInfoCard
-            icon={<Building2 className="text-highlight" />}
+            icon={<MapPinCheckInsideIcon className="text-highlight" />}
             stats={uniqueUniv.size}
             label="Perguruan Tinggi"
           />
           <StatsInfoCard
-            icon={<GraduationCap className="text-highlight" />}
+            icon={<GraduationCapIcon className="text-highlight" />}
             stats={uniqueMajor.size}
             label="Program Studi"
           />

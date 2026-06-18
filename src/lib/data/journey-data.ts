@@ -35,10 +35,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC694D6Y1628",
     name: "Bonnievitto Alzain",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "kurikulum padat yang menantang, ritme belajar yang cepat, fokus pada praktik, dan peluang besar untuk siap kerja.",
+    challenge:
+      "ritme belajar yang sangat cepat, mengatasi frustrasi saat debugging (mencari error), dan manajemen waktu yang ketat.",
+    grateful:
+      "perkembangan skill, keberhasilan menyelesaikan proyek rumit, serta relasi dan dukungan dari mentor maupun sesama teman belajar.",
+    changes:
+      "peningkatan problem-solving skill yang signifikan, Komunikasi yang baik, mentalitas yang tidak mudah menyerah saat menghadapi error, serta kemampuan membangun aplikasi utuh dari awal.",
   },
   {
     id: "CFCC200D6X2177",
@@ -115,10 +119,10 @@ export const journeys: Journey[] = [
   {
     id: "CFCC308D6Y1164",
     name: "M. Faiz Septian",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation: "Mampu meningkatkan skill programming saya",
+    challenge: "Tabrakan deadline dengan jadwal kuliah",
+    grateful: "Pelajaran dan pengalamannya",
+    changes: "Skill",
   },
   {
     id: "CFCC183D6Y2331",
@@ -186,10 +190,12 @@ export const journeys: Journey[] = [
   {
     id: "CFCC009D6Y1879",
     name: "Muhammad Rafi Putra Pati",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Saat pertama kali mendaftar, jujur ekspektasi saya adalah program ini akan berjalan seperti bootcamp konvensional pada umumnya, kelas sinkronus yang kaku, serta bimbingan intensif dari mentor di setiap langkahnya. Namun, kesan pertama itu langsung berubah begitu program dimulai. Saya menyadari bahwa esensi dari coding camp ini justru berfokus pada kemandirian dan self study.",
+    challenge:
+      "mengejar materi + submission kelas, tantangan terbesar itu ada disaat submission kelas terakhir.",
+    grateful: "Jadi lebih paham struktur web",
+    changes: "jadi lebih lancar disaat menavigasi & menganalisis kode ",
   },
   {
     id: "CFCC284D6X1467",
@@ -214,10 +220,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC284D6X1956",
     name: "Sella Amelia",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Termotivasi mengikuti program ini awalnya selain mencari konversi MBKM dari kampus juga ingin belajar lebih terstruktur. Tapi jujur, di awal ada rasa ragu, apakah saya cukup mampu? dan kesan pertamanya campur aduk antara semangat dan gugup.",
+    challenge:
+      "Tantangan terbesar bukan hanya di persoalan teknis tetapi konsistensi. Ada beberapa momen di mana error tak kunjung selesai, deadline yang menumpuk, dan rasanya ingin menyerah. Namun tetap memaksakan diri untuk tetap duduk mencoba, dan tidak kabur dari permasalahan yang ada dan hal tersebut yang paling berat sekaligus paling membentuk pengalaman saya",
+    grateful:
+      "Bersyukur atas prosesnya bukan hanya hasilnya saja. Setiap error yang akhirnya terpecahkan mengajarkan saya bahwa saya ternyata bisa lebih tangguh dari yang saya kira. Dan tentu, belajar bersama orang-orang yang punya semangat yang sama itu adalah poin plus sekaligus hadiah yang tak ternilai",
+    changes:
+      'Saya dulu melihat masalah dan bertanya "Apakah saya bisa?" dan sekarang saya bertanya "Bagaimana caranya?" Itu perubahan terbesar saya. Bukan sekadar bisa ngoding Full Stack, tetapi juga punya pola pikir seorang problem-solver yang tidak gampang menyerah',
   },
   {
     id: "CFCC846D6X0782",
@@ -230,10 +240,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC476D6Y0656",
     name: "Surya Rajab Sanusi",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Awalnya saya bergabung hanya untuk mengisi waktu luang di sisa semester 8 kuliah dan tidak berharap terlalu banyak. Namun, setelah masuk dan menjalaninya, ternyata banyak sekali ilmu baru yang saya pelajari, khususnya di bidang Full-Stack Development.",
+    challenge:
+      "Tantangan terbesar bagi saya adalah waktu pengerjaan di setiap modul yang lumayan singkat, sehingga saya dituntut untuk belajar dengan cepat. Selain itu, saya juga sempat merasa kesulitan di bagian penyelesaian submission.",
+    grateful:
+      "Saya sangat bersyukur bisa konsisten dan berkomitmen hingga berhasil menyelesaikan seluruh rangkaian program coding camp ini dengan lancar.",
+    changes:
+      "menambah ilmu baru di bagian fullstack apakai di bagian backend saya sangat mendalami nya",
   },
   {
     id: "CFCC525D6X0203",

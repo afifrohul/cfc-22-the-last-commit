@@ -30,9 +30,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC694D6Y1628",
     name: "Bonnievitto Alzain",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Proyek ini sangat penting karena menjadi bukti nyata kemampuan (portofolio) Anda dalam membangun aplikasi utuh dari awal, sekaligus melatih kerja tim dan simulasi dunia kerja yang sesungguhnya",
+    learning:
+      "koding yang berhasil hanyalah setengah dari pekerjaan sisanya adalah tentang komunikasi tim yang jelas, manajemen waktu yang realistis, dan kemampuan memecahkan masalah (problem-solving) secara mandiri saat menghadapi bug rumit.",
+    proud:
+      "melihat aplikasi yang dibangun dari nol akhirnya berfungsi dengan lancar, berhasil menyelesaikan masalah nyata, dan berhasil mengatasi bug-bug rumit lewat kerja sama tim.",
   },
   {
     id: "CFCC200D6X2177",
@@ -97,9 +100,9 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC308D6Y1164",
     name: "M. Faiz Septian",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "Saya cukup invest",
+    learning: "Koordinasi dengan teman kelompok ",
+    proud: "Hasilnya",
   },
   {
     id: "CFCC183D6Y2331",
@@ -154,9 +157,11 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC009D6Y1879",
     name: "Muhammad Rafi Putra Pati",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Bagus untuk ngetest ilmu yang dipelajari disaat proses berjalannya bootcamp, dan meningkatkan relasi",
+    learning: "Cara berkomunikasi, dan time management",
+    proud:
+      "Idenya unik,menarik dan diharapkan dpatmenyelesaikan masalah gen z dimasa ini",
   },
   {
     id: "CFCC284D6X1467",
@@ -178,9 +183,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC284D6X1956",
     name: "Sella Amelia",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Capstone project adalah puncak dari semua yang dipelajari dan CerminSaku membuktikan hal tersebut. Bukan sekedar tugas akhir, tetapi simulasi nyata menjadi seorang developer profesional. Dan di sinilah semua teori bertemu realita yang akhirnya menyadarkan saya betapa jauhnya saya sudah berkembang dalam bidang ini",
+    learning:
+      "Pelajaran terbesar saya adalah bahwa membangun sesuatu yang utuh dari frontend hingga backend yang membutuhkan lebih dari sekedar skill teknis. Dibutuhkan komunikasi, manajemen waktu, dan keberanian untuk membuat keputusan di tengah ketidakpastian. CerminSaku mengajarkan saya cara berpikir seperti engineer, bukan hanya coder.",
+    proud:
+      "Yang paling membanggakan adalah melihat CerminSaku berdiri sebagai aplikasi yang benar-benar berfungsi dari database, API, hingga tampilan yang bisa disentuh pengguna. Dan momen ketika semuanya terhubung dan berjalan sempurna itulah perasaan yang sulit dijelaskan dengan kata-kata. Karena hal tersebut bukti nyata bahwa saya bisa.",
   },
   {
     id: "CFCC846D6X0782",
@@ -192,9 +200,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC476D6Y0656",
     name: "Surya Rajab Sanusi",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Program yang luar biasa untuk mengimplementasikan teori ke praktik. Di sesi capstone ini, saya belajar banyak tentang cara membangun web dari sisi arsitektur backend dan UI/UX, sekaligus memperluas relasi dengan mendapatkan teman-teman baru",
+    learning:
+      "Pelajaran terbesar bagi saya adalah pentingnya komunikasi yang intens dan koordinasi antar-tim. Ketika model AI belum selesai 3 hari sebelum deadline, saya harus mengambil alih banyak peran secara cepat: membantu frontend dan tim AI, membuatkan FastAPI untuk integrasi model, mendesain ulang arsitektur backend agar tidak overload, hingga melakukan konfigurasi server menggunakan Docker dan firewall saat deployment. Pengalaman ini melatih kemampuan problem solving dan ketahanan saya dalam situasi kritis.",
+    proud:
+      "Hal yang paling membuat saya bangga adalah kemampuan tim untuk tetap solid dan berhasil menyelesaikan capstone project ini tepat waktu dengan minim bug. Secara personal, saya juga sangat bangga karena berhasil mengintegrasikan model AI menggunakan FastAPI, mengoptimalkan arsitektur backend, hingga sukses melakukan deployment ke server ",
   },
   {
     id: "CFCC525D6X0203",

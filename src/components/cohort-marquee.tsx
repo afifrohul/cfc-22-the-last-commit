@@ -8,12 +8,12 @@ const secondRow = cohorts.slice(cohorts.length / 2)
 export default function CohortMarquee() {
   return (
     <div className="relative flex w-full flex-col items-center justify-center overflow-hidden">
-      <Marquee className="[--duration:75s]">
+      <Marquee className="[--duration:50s]" pauseOnHover>
         {firstRow.map((cohort) => (
           <CohortItemMarquee key={cohort.id} cohort={cohort} />
         ))}
       </Marquee>
-      <Marquee reverse className="[--duration:75s]">
+      <Marquee reverse className="[--duration:50s]" pauseOnHover>
         {secondRow.map((cohort) => (
           <CohortItemMarquee key={cohort.id} cohort={cohort} />
         ))}

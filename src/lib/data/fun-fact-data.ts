@@ -26,9 +26,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC694D6Y1628",
     name: "Bonnievitto Alzain",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "10+ karena ada AI jadi tidak terlalu banyak",
+    web: "Github,Chatgpt,Youtube",
+    friend: "Kopi dan orang tersayang",
   },
   {
     id: "CFCC200D6X2177",
@@ -83,9 +83,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC308D6Y1164",
     name: "M. Faiz Septian",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "Gemini, Claude, Figma, Pinterest, Github",
+    web: "Gemini",
+    friend: "YouTube",
   },
   {
     id: "CFCC183D6Y2331",
@@ -133,9 +133,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC009D6Y1879",
     name: "Muhammad Rafi Putra Pati",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "Tak hingga",
+    web: "Claude, dicoding, gemini",
+    friend: "Playlist lo-fi, dan kopi",
   },
   {
     id: "CFCC284D6X1467",
@@ -155,9 +155,10 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC284D6X1956",
     name: "Sella Amelia",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "15 tab terbuka secara bersamaan hingga terkadang membuat laptop saya lag",
+    web: "ChatGPT, ClaudeAi, Youtube, Github",
+    friend:
+      "Yang pasti sebagai gen z tidak jauh-jauh dari kopi, dan kopi andalan saya adalah kopi Sejuta Jiwa rasa hazelnut. Plis rekom sekali boleh dicoba hihi. Selain itu juga selalu membuka playlist andalan di spotify.",
   },
   {
     id: "CFCC846D6X0782",
@@ -169,9 +170,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC476D6Y0656",
     name: "Surya Rajab Sanusi",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "20",
+    web: "Fesnuk, Youtube",
+    friend: "Roko, kopi",
   },
   {
     id: "CFCC525D6X0203",

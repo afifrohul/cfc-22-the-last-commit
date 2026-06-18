@@ -28,9 +28,10 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC694D6Y1628",
     name: "Bonnievitto Alzain",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "Kamu Hebat !!",
+    hope: "Software Engineering",
+    promise:
+      "Menyelesaikan Perkuliahan dengan tepat waktu dan kerja secepatnya",
   },
   {
     id: "CFCC200D6X2177",
@@ -90,9 +91,9 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC308D6Y1164",
     name: "M. Faiz Septian",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "Sudah diluar negri?",
+    hope: "Bekerja disekitar game Dev dll.",
+    promise: "Mengikuti Asah",
   },
   {
     id: "CFCC183D6Y2331",
@@ -143,9 +144,10 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC009D6Y1879",
     name: "Muhammad Rafi Putra Pati",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Hei Rafi, Kalau kamu baca ini, berarti kamu udah survive dari begadang ngerjain tugas kuliah, bootcamp,dll dan semua momen 'aku gak ngerti apa-apa'. Semoga sekarang kamu udah jadi developer atau security engineer yang beneran ngerti apa yang ditulis, bukan cuma bisa jalanin kodenya. Yang penting: jangan lupa dari mana mulainya. Dulu juga bingung, dulu juga struggle. Itu bukan memalukan, itu titik awal. Stay Curious, and Consistent.",
+    hope: "Security Engineer/Digital Forensic",
+    promise: "konsisten dan better time management",
   },
   {
     id: "CFCC284D6X1467",
@@ -166,9 +168,11 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC284D6X1956",
     name: "Sella Amelia",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Halloww, kamu yang membaca ini semoga kamu tersenyum. Ingat tidak, dulu kamu sempat ragu apakah kamu cukup baik untuk melangkah ke dunia ini? Ternyata kamu lebih dari cukup. Coding Camp bukan titik akhir, tapi titik balik. Apapun yang sudah kamu capai sekarang, jangan lupa dari mana kamu mulai, dari seseorang yang memberanikan diri, dan tidak menyerah",
+    hope: "Dalam 5 tahun ke depan, saya berharap sedang berada di posisi sebagai Full-Stack Developer yang berpengalaman berkontribusi pada produk yang benar-benar berdampak, atau bahkan membangun sesuatu milik saya sendiri. Bukan hanya soal jabatan, tetapi saya ingin menjadi developer yang dipercaya, terus belajar, dan menginspirasi orang lain seperti saya pernah diinspirasi",
+    promise:
+      "Saya berjanji untuk tidak berhenti membangun. Ketika program ini berakhir, belajar tidak ikut berakhir. Saya akan terus belajar menulis kode, terus gagal, terus bangkit karena saya sudah membuktikan bahwa saya mampu memulai. Dan seseorang yang bisa memulai, pasti bisa menyelesaikannya",
   },
   {
     id: "CFCC846D6X0782",
@@ -180,9 +184,9 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC476D6Y0656",
     name: "Surya Rajab Sanusi",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "Jangan pernah lupakan semangat, komitmen",
+    hope: "Saya berharap bisa berkarier secara profesional sebagai Backend Developer atau Network Engineer",
+    promise: "Tetap konsisten menjaga semangat belajar",
   },
   {
     id: "CFCC525D6X0203",

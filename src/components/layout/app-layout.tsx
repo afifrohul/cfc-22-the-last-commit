@@ -7,6 +7,7 @@ import Header from "@/components/header"
 import { Separator } from "@/components/ui/separator"
 import { motion } from "motion/react"
 import ScrollToTop from "@/components/scroll-to-top"
+import { Analytics } from "@vercel/analytics/next"
 
 export function AppLayout() {
   return (
@@ -29,6 +30,7 @@ export function AppLayout() {
           <Outlet />
         </motion.div>
       </main>
+      <Analytics />
     </div>
   )
 }

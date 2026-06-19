@@ -47,10 +47,13 @@ export const journeys: Journey[] = [
   {
     id: "CFCC200D6X2177",
     name: "Clara Mela Pristina",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "ekspetasi saya adalah saya menjadi fullstack yang jago ngoding nya hihi",
+    challenge:
+      'cuma waktu aja, terkadang bertabrakan dengan jadwal dan kegiatan di kampus, selain itu saat capstone teman" ada yang sulit diajak bekerjasama',
+    grateful:
+      "mendapatkan banyak sekali skill baru entah itu soft skill maupun tech skill, selain itu saya belajar memanajemen waktu antara kuliah dan codingcamp ",
+    changes: "banyakkk kakk, soft skill dan hard skill terasah",
   },
   {
     id: "CFCC358D6X1820",
@@ -67,18 +70,24 @@ export const journeys: Journey[] = [
   {
     id: "CFCC244D6Y2846",
     name: "Edward Riadi",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Ekspektasi saya adalah mendapatkan kurikulum yang relevan dengan standar industri, mempelajari best practices dalam coding, serta membangun portofolio yang kuat untuk persiapan kerja ",
+    challenge:
+      "Manajemen waktu dan kecepatan belajar (pacing). Materi yang diberikan sangat padat dan intensif, sehingga saya harus mengorbankan waktu santai di akhir pekan demi memastikan tugas-tugas selesai tepat waktu dan sesuai standar",
+    grateful:
+      "Pengalaman kolaborasi nyata dalam tim dan insight langsung dari para praktisi industri yang menjadi mentor. Hal ini memberi gambaran jelas tentang bagaimana dunia kerja yang sebenarnya ",
+    changes:
+      "Peningkatan kepercayaan diri yang signifikan. Saya merasa jauh lebih siap untuk menghadapi dunia kerja, lebih adaptif terhadap teknologi baru, dan memiliki portofolio nyata yang bisa dibanggakan ",
   },
   {
     id: "CFCC009D6Y1098",
     name: "Ezhar Mahesa",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "Ekspetasi saya adalah bahwa program ini adalah hal yang bagus untuk saya dalam memperdalam skill",
+    challenge: "Manajement waktu dan rasa malas",
+    grateful:
+      "Saya dapat mengenal beberapa orang baru dan tentu mendapatkan banyak hal disini",
+    changes: "Mungkin saya sekarang lebih rajin belajar",
   },
   {
     id: "CFCC220D6X0429",
@@ -160,10 +169,12 @@ export const journeys: Journey[] = [
   {
     id: "CFCC221D6Y1295",
     name: "Muhammad Ali Anhar",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "program ini bagus untuk pengembangan diri terutama skill yang saya miliki",
+    challenge: "jadwal pagi ILT session, mau itu tech ataupun soft skill ",
+    grateful:
+      "memiliki fasilitator yang sangat baik dan juga kompeten dan juga sangat aktif (bro like... kak afif is the goat)",
+    changes: "lebih memperhatikan schedule yang kita punya dan manajemen waktu",
   },
   {
     id: "CFCC308D6Y0365",
@@ -212,10 +223,14 @@ export const journeys: Journey[] = [
   {
     id: "CFCC573D6Y1062",
     name: "Refaldi Julidinsyah",
-    expectation: "",
-    challenge: "",
-    grateful: "",
-    changes: "",
+    expectation:
+      "awalnya mikir cuma dapat materi teori yg membosankan, tapi ternyata ekspektasi saya salah, programnya malah seru banget karena langsung dihadapkan sama proyek nyata dan didampingi sama fasilitator yg super suportif",
+    challenge:
+      "tantangan terbesar saya jelas ada di manajemen waktu. cukup menantang karna harus mikir buat gabungin frontend, backend, dan AI dalam satu proyek dengan deadline yang singkat.",
+    grateful:
+      "sangat bersyukur bisa dapet mentor yang suportif dan ketemu temen-temen tim yang asik diajak kerja sama. pengalaman bikin aplikasi bareng dari nol itu bener-bener dapet banget nilainya.",
+    changes:
+      "sekarang cara ngoding saya jadi jauh lebih rapi dan terstruktur. selain itu, cara mikir pas nyari solusi kalau ada error jadi lebih tenang dan gak gampang panik.",
   },
   {
     id: "CFCC284D6X1956",

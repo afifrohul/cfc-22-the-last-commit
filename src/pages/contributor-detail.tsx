@@ -106,7 +106,7 @@ export default function ContributorDetail() {
           {/* JOURNEY */}
           <div className="space-y-2">
             <div className="flex w-full items-center gap-4">
-              <h1 className="w-fit text-2xl font-black text-nowrap italic">
+              <h1 className="w-fit text-2xl font-black text-nowrap italic text-muted-foreground">
                 JOURNEY
               </h1>
               <div className="h-px w-full rounded border-b-2" />
@@ -155,7 +155,7 @@ export default function ContributorDetail() {
           {/* CAPSTONE */}
           <div className="space-y-2">
             <div className="flex w-full items-center gap-4">
-              <h1 className="w-fit text-2xl font-black text-nowrap italic">
+              <h1 className="w-fit text-2xl font-black text-nowrap italic text-muted-foreground">
                 CAPSTONE
               </h1>
               <div className="h-px w-full rounded border-b-2" />
@@ -194,7 +194,7 @@ export default function ContributorDetail() {
           {/* TIME CAPSULE */}
           <div className="space-y-2">
             <div className="flex w-full items-center gap-4">
-              <h1 className="w-fit text-2xl font-black text-nowrap italic">
+              <h1 className="w-fit text-2xl font-black text-nowrap italic text-muted-foreground">
                 TIME CAPSULE
               </h1>
               <div className="h-px w-full rounded border-b-2" />
@@ -229,7 +229,7 @@ export default function ContributorDetail() {
           {/* FUN FACT */}
           <div className="space-y-2">
             <div className="flex w-full items-center gap-4">
-              <h1 className="w-fit text-2xl font-black text-nowrap italic">
+              <h1 className="w-fit text-2xl font-black text-nowrap italic text-muted-foreground">
                 FUN FACT
               </h1>
               <div className="h-px w-full rounded border-b-2" />

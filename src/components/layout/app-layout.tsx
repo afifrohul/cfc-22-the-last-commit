@@ -19,7 +19,7 @@ export function AppLayout() {
         <MobileNavigation />
 
         <motion.div
-          className="flex min-h-screen w-full max-w-4xl flex-col"
+          className="flex min-h-screen w-full max-w-4xl flex-col pb-16"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.1 }}

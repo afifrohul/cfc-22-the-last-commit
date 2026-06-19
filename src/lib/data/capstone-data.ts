@@ -40,9 +40,10 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC200D6X2177",
     name: "Clara Mela Pristina",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "sangat seruuu ",
+    learning:
+      "pelajaran terbesar saya yaitu mampu menyeimbangkan kesibukan kuliah dan codingcamp ",
+    proud: "kerenn banget programnya bs aku pamerin ke temen temen",
   },
   {
     id: "CFCC358D6X1820",
@@ -56,16 +57,20 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC244D6Y2846",
     name: "Edward Riadi",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Menurut saya, capstone project adalah simulasi dunia kerja nyata yang sangat akurat. Bagian ini bukan lagi sekadar menguji kemampuan individu dalam menulis baris kode, melainkan menguji bagaimana kami bisa berkolaborasi, menyatukan ide yang berbeda, dan bekerja di bawah tekanan deadline yang ketat",
+    learning:
+      "Pelajaran terbesar adalah pentingnya komunikasi yang jelas dan manajemen version control. Saya menyadari bahwa kode yang canggih tidak akan berguna jika terjadi merge conflict yang berantakan atau jika pembagian tugas antar-anggota tim tidak berjalan dengan seimbang ",
+    proud:
+      "Saya sangat bangga melihat transisi dari sebuah ide menjadi sebuah aplikasi fungsional yang benar-benar bisa digunakan. Keberhasilan tim kami dalam menyelesaikan MVP tepat waktu dengan pembagian tugas yang solid adalah kebanggaan terbesar saya ",
   },
   {
     id: "CFCC009D6Y1098",
     name: "Ezhar Mahesa",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "Project capstone sangat membantu saya dalam mempertajam dan mengasah skill saya",
+    learning: "Tentu saja tentang kerja sama tim",
+    proud: "Dapat mengerjakan dan menyelesaikan projek ini",
   },
   {
     id: "CFCC220D6X0429",
@@ -133,9 +138,10 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC221D6Y1295",
     name: "Muhammad Ali Anhar",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion: "bagus sekali",
+    learning:
+      "integrasi ai service dengan backend service menggunakan fastapi dan juga integrasi dan juga deployment untuk scale production ready",
+    proud: "bisa membantu pejuang diabetes",
   },
   {
     id: "CFCC308D6Y0365",
@@ -176,9 +182,12 @@ export const capstone: Capstone[] = [
   {
     id: "CFCC573D6Y1062",
     name: "Refaldi Julidinsyah",
-    opinion: "",
-    learning: "",
-    proud: "",
+    opinion:
+      "seruu sekaligus menantang. soalnya projectnya bener-bener maksa kita buat gabungin banyak teknologi dan kerja sama tim secara intens seperti di dunia kerja nyata.",
+    learning:
+      "pelajaran terbesarnya ada di komunikasi dan penyelarasan alur kerja antar learning path biar bisa terintegrasi tanpa ada terjadinya error",
+    proud:
+      "yang membuat kami bangga adalah tim kami berhasil membangun platform yang berfungsi penuh dari nol, punya fitur prediksi, dan selesai tepat waktu dengan hasil yang solid.",
   },
   {
     id: "CFCC284D6X1956",

@@ -33,9 +33,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC200D6X2177",
     name: "Clara Mela Pristina",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "23 tab kakk",
+    web: "chatgpt, claude ai, WhatsApp",
+    friend: "es teh dan kripca pedas",
   },
   {
     id: "CFCC358D6X1820",
@@ -48,16 +48,16 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC244D6Y2846",
     name: "Edward Riadi",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "4",
+    web: "Google Gemini",
+    friend: "Kopi",
   },
   {
     id: "CFCC009D6Y1098",
     name: "Ezhar Mahesa",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "5",
+    web: "Chatgpt, github, gemini, stuck overflow, youtube",
+    friend: "Playlist lagu saya",
   },
   {
     id: "CFCC220D6X0429",
@@ -112,9 +112,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC221D6Y1295",
     name: "Muhammad Ali Anhar",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "9 keknya",
+    web: "gpt, yt, github, huggingface,claude ai",
+    friend: "kopi, rokok, timur - the adams",
   },
   {
     id: "CFCC308D6Y0365",
@@ -148,9 +148,9 @@ export const funFact: FunFact[] = [
   {
     id: "CFCC573D6Y1062",
     name: "Refaldi Julidinsyah",
-    tab: "",
-    web: "",
-    friend: "",
+    tab: "17 🤣🤣",
+    web: "Github, ChatGPT, Gemini, Claude, Youtube, dan Stack Overflow",
+    friend: "KOPII, MIEE DAN PLAYLIST DI SPOTIFY",
   },
   {
     id: "CFCC284D6X1956",

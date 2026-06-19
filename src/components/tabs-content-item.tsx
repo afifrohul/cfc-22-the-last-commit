@@ -1,5 +1,3 @@
-import { faker } from "@faker-js/faker"
-
 export default function TabsContentItem({
   name,
   content,
@@ -13,11 +11,7 @@ export default function TabsContentItem({
         <p className="text-base font-medium text-highlight">{name}</p>
       </div>
       <div className="md:col-span-2">
-        <p className="text-sm">
-          {content !== ""
-            ? content
-            : faker.lorem.sentence({ min: 17, max: 45 })}
-        </p>
+        <p className="text-sm">{content}</p>
       </div>
     </div>
   )

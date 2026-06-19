@@ -1,5 +1,4 @@
 import { Card, CardContent } from "@/components/ui/card"
-import { faker } from "@faker-js/faker"
 
 export default function MasonryContentItem({
   name,
@@ -13,11 +12,7 @@ export default function MasonryContentItem({
       <Card size="sm">
         <CardContent>
           <p className="text-xs text-muted-foreground">{name}</p>
-          <p className="text-xs">
-            {content !== ""
-              ? content
-              : faker.lorem.sentence({ min: 3, max: 5 })}
-          </p>
+          <p className="text-xs">{content}</p>
         </CardContent>
       </Card>
     </div>

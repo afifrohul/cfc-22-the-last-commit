@@ -36,9 +36,10 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC200D6X2177",
     name: "Clara Mela Pristina",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "pokoknya tetep semangat dan jangan takut ambil langkah yang orang lain sekalipun ga berani, harus keluar dari zona nyaman dan harus bisa dapetin 100 juta pertama dari kerja keras ku sendiri",
+    hope: "dikelilingi kebahagiaan dan kesehatan, lulus S1 tepat waktu dan dapat pekerjaan yang bagus di Pertamina dan jadi pengusaha dengan income 3 digit",
+    promise: 'gaboleh males" an belajar dan harus menang dari rasa mager',
   },
   {
     id: "CFCC358D6X1820",
@@ -51,16 +52,17 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC244D6Y2846",
     name: "Edward Riadi",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "Percaya diri dan terus konsisten",
+    hope: "Dalam 5 tahun ke depan, saya berharap sudah memegang peran sebagai Senior Developer atau Tech Lead di perusahaan teknologi terkemuka, atau bahkan sedang memimpin tim engineering di startup sendiri",
+    promise: "Tidak pernah berhenti belajar dan terus berkembang",
   },
   {
     id: "CFCC009D6Y1098",
     name: "Ezhar Mahesa",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "Untuk saya di masa depan, jangan malas , rajin belajar dan berbakti kepada ke orang tua serta selalu ibadah kepada tuhan",
+    hope: "Manajer",
+    promise: "Merubah diri saya ke hal yang positif",
   },
   {
     id: "CFCC220D6X0429",
@@ -122,9 +124,10 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC221D6Y1295",
     name: "Muhammad Ali Anhar",
-    message: "",
-    hope: "",
-    promise: "",
+    message: "pliss jangan vibe coding wokk",
+    hope: "CTO/CEO/(kalo bisa nganggur si)",
+    promise:
+      "saya berjanji akan memanajemen waktu saya lebih baik lagi dan juga membuat schedule yang rapih terkait diri sendiri",
   },
   {
     id: "CFCC308D6Y0365",
@@ -161,9 +164,11 @@ export const timeCapsule: TimeCapsule[] = [
   {
     id: "CFCC573D6Y1062",
     name: "Refaldi Julidinsyah",
-    message: "",
-    hope: "",
-    promise: "",
+    message:
+      "halo repal! semoga pas kamu baca ini, kamu udah jadi developer hebat yang selalu ingat proses jatuh bangun pas ngerjain capstone project dulu. jangan pernah berhenti ngoding, ya!",
+    hope: "berharap udah stabil berkarier sebagai senior web developer atau software engineer, punya impact besar di industri, dan masih terus konsisten bikin produk-produk inovatif.",
+    promise:
+      "janji bakal terus konsisten ngoding, jaga spirit belajar yang sama kayak pas di camp, dan gak bakalan cepat ngerasa puas sama skill yang dipunya sekarang.",
   },
   {
     id: "CFCC284D6X1956",

@@ -238,7 +238,7 @@ export const cohorts: Member[] = [
     univ: "Universitas Negeri Surabaya",
     major: "Sistem Informasi",
     github: "https://github.com/nadierfina",
-    linkedin: "https://www.linkedin.com/in/nadia-erfina-90975a2b/",
+    linkedin: "https://www.linkedin.com/in/nadia-erfina-90975a2b4/",
     portfolio: "https://nadiaporto.vercel.app/",
     image: "/nadia.jpg",
     motto: "Hari ini berjuang, hari esok ber-uang",

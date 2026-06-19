@@ -5,7 +5,7 @@ export default function NotFound() {
   usePageTitle("Not Found")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
-      <div className="px-4 pb-4 md:p-10">
+      <div className="p-4 md:p-10">
         <h1 className="text-center text-9xl font-black">404</h1>
         <div className="mt-8 space-y-4">
           <p className="text-center font-semibold text-highlight">

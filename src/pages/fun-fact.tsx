@@ -18,7 +18,7 @@ export default function FunFact() {
   usePageTitle("Fun Fact")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
-      <div className="px-4 pb-4 md:p-10">
+      <div className="p-4 md:p-10">
         <TypingHeadline
           cacheKey="funFact"
           segments={[

@@ -6,7 +6,7 @@ export default function Home() {
   usePageTitle("CFC-22")
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
-      <div className="px-4 pb-4 md:px-10 md:pb-10">
+      <div className="p-4 md:p-10">
         <TypingHeadline
           cacheKey="home"
           segments={[

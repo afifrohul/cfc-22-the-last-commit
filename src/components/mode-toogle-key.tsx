@@ -8,7 +8,7 @@ export function ModeToggleKey() {
         variant="outline"
         className="shadow-md backdrop-blur supports-backdrop-filter:bg-background/60"
       >
-        Press <Kbd>D</Kbd> to toggle dark mode
+        Press <Kbd>D</Kbd> to toggle light / dark mode
       </Button>
     </div>
   )
